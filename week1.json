@@ -3,7 +3,7 @@
     "date": "2026-03-30",
     "workout_type": "Swim",
     "title": "Techniek & Z1-Z2 basis",
-    "description": "Eerste zwemtraining van het blok. Focus op slagefficiëntie en IM-positie. Geen haast. Tempo ruim onder CSS — doel is bewegen en techniek, niet conditie.",
+    "description": "Eerste zwemtraining van het blok. Focus op slagefficiëntie en IM-positie. Tempo ruim onder CSS (1:28/100m) — doel is bewegen en techniek, niet conditie.",
     "duration_minutes": 50,
     "distance_meters": 2000,
     "tss_planned": 35,
@@ -18,27 +18,27 @@
     "date": "2026-03-31",
     "workout_type": "Bike",
     "title": "Z2 basis — losrijden",
-    "description": "Eerste fietssessie van het blok. Puur Z2, geen intervals. Doel: motorische heractivatie en aerobe basis. eFTP 292W — Z2 = 175–219W (60–75% eFTP). Hartslag verwacht 145–165 bpm als bevestiging.",
+    "description": "Eerste fietssessie van het blok. Puur Z2, geen intervals. Doel: motorische heractivatie en aerobe basis. eFTP 305W — Z2 = 183–229W (60–75% eFTP).",
     "duration_minutes": 65,
     "distance_meters": null,
-    "tss_planned": 50,
+    "tss_planned": 48,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Losrijden 120–160W, cadans vrij, opbouwen" },
-      { "step": "Hoofdset", "duration_minutes": 40, "zone": "Z2", "notes": "175–219W (60–75% eFTP), cadans 85–90 rpm. Hartslag check: 145–165 bpm" },
-      { "step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Rustig uitrijden < 150W" }
+      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Losrijden 130–170W, cadans vrij, opbouwen" },
+      { "step": "Hoofdset", "duration_minutes": 40, "zone": "Z2", "notes": "183–229W (60–75% eFTP), cadans 85–90 rpm. Hartslag check: 140–160 bpm" },
+      { "step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Rustig uitrijden < 160W" }
     ]
   },
   {
     "date": "2026-04-01",
     "workout_type": "Run",
     "title": "Z2 herstelrun — voorzichtig opstarten",
-    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Eerste loopsessie. Puur Z2 tempo, geen versnellingen. Stop direct bij pijn aan enkel of scheenbeen. Totaal ~7km.",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Eerste loopsessie. Puur Z2 tempo, geen versnellingen. Stop direct bij pijn aan enkel of scheenbeen. Drempeltempo = 4:50/km, Z2 = 5:20–5:50/km. Totaal ~8km.",
     "duration_minutes": 50,
-    "distance_meters": 7000,
-    "tss_planned": 38,
+    "distance_meters": 8000,
+    "tss_planned": 40,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandel 3 min, dan rustig inlopen 7:00–8:00/km" },
-      { "step": "Hoofdset", "duration_minutes": 32, "zone": "Z2", "notes": "5:33–6:22/km, HR 157–169 bpm. Voel je enkel actief — bij twijfel terug naar Z1" },
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandel 3 min, dan rustig inlopen 6:30–7:00/km" },
+      { "step": "Hoofdset", "duration_minutes": 32, "zone": "Z2", "notes": "5:20–5:50/km. Voel je enkel actief — bij twijfel terug naar Z1" },
       { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "Uitlopen + 5 min wandelen, enkelmobiliteit na afloop" }
     ]
   },
@@ -46,7 +46,7 @@
     "date": "2026-04-02",
     "workout_type": "Swim",
     "title": "IM tempo blokken",
-    "description": "Tweede zwemtraining. Opbouw naar IM-doeltempo van 1:40/100m. Niet forceren — tempo moet comfortabel voelen. Focus op gelijkmatig tempo per blok.",
+    "description": "Tweede zwemtraining. Opbouw naar IM-doeltempo van 1:40/100m. Niet forceren — tempo moet comfortabel voelen. Focus op gelijkmatig tempo per blok. CSS = 1:28/100m.",
     "duration_minutes": 55,
     "distance_meters": 2200,
     "tss_planned": 42,
@@ -60,42 +60,42 @@
   {
     "date": "2026-04-03",
     "workout_type": "Bike",
-    "title": "Z2 uithouding — langere avondsessie",
-    "description": "Vrijdag = ZZP-dag, meer ruimte. Iets langere Z2 rit dan dinsdag. Zelfde intensiteit, meer volume. eFTP 292W — Z2 = 175–219W.",
-    "duration_minutes": 85,
+    "title": "Z2 uithouding — langere ZZP-sessie",
+    "description": "Vrijdag = ZZP-dag, meer ruimte. Iets langere Z2 rit dan dinsdag. Zelfde intensiteit, meer volume. eFTP 305W — Z2 = 183–229W.",
+    "duration_minutes": 90,
     "distance_meters": null,
-    "tss_planned": 65,
+    "tss_planned": 68,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Losrijden naar 175W" },
-      { "step": "Hoofdset", "duration_minutes": 58, "zone": "Z2", "notes": "175–219W, cadans 85–92 rpm. HR 145–165 bpm. Geen druk, gewoon rijden" },
-      { "step": "Cooling-down", "duration_minutes": 12, "zone": "Z1", "notes": "Uitrijden < 150W" }
+      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Losrijden naar 183W" },
+      { "step": "Hoofdset", "duration_minutes": 60, "zone": "Z2", "notes": "183–229W, cadans 85–92 rpm. Geen druk, gewoon rijden" },
+      { "step": "Cooling-down", "duration_minutes": 15, "zone": "Z1", "notes": "Uitrijden < 160W" }
     ]
   },
   {
     "date": "2026-04-04",
     "workout_type": "Bike",
     "title": "Lange Z2 duurrit — basis IM-volume",
-    "description": "Eerste lange rit van het blok. 2 uur pure Z2 — fundament voor het fietsgedeelte van de IM. eFTP 292W — Z2 = 175–219W. Voeding meenemen: 60g koolhydraten per uur na het eerste uur.",
-    "duration_minutes": 120,
+    "description": "Eerste lange rit van het blok. 2,5 uur pure Z2 — fundament voor het fietsgedeelte van de IM. eFTP 305W — Z2 = 183–229W. Voeding meenemen: 60–80g koolhydraten per uur na het eerste uur.",
+    "duration_minutes": 150,
     "distance_meters": null,
-    "tss_planned": 95,
+    "tss_planned": 100,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Opbouwen naar 175W" },
-      { "step": "Hoofdset", "duration_minutes": 90, "zone": "Z2", "notes": "175–219W, cadans 85–90 rpm. Na 60 min: gel of sportdrank. HR als check: 145–165 bpm" },
-      { "step": "Cooling-down", "duration_minutes": 15, "zone": "Z1", "notes": "Rustig uitrijden, cadans iets hoger" }
+      { "step": "Warming-up", "duration_minutes": 20, "zone": "Z1-Z2", "notes": "Opbouwen naar 183W" },
+      { "step": "Hoofdset", "duration_minutes": 110, "zone": "Z2", "notes": "183–229W, cadans 85–90 rpm. Na 60 min: gel of sportdrank elke 30 min" },
+      { "step": "Cooling-down", "duration_minutes": 20, "zone": "Z1", "notes": "Rustig uitrijden < 160W, cadans iets hoger" }
     ]
   },
   {
     "date": "2026-04-05",
     "workout_type": "Run",
     "title": "Z2 lange duurloop — conservative start",
-    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Langste loopsessie van week 1, maar bewust kort gehouden. ~10km Z2. Na de fietssessie van gisteren — check hoe de benen aanvoelen voor je begint. Vermoeide benen = prima. Pijn = stop.",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Langste loopsessie van week 1, maar bewust kort gehouden. ~11km Z2. Na de fietssessie van gisteren — check hoe de benen aanvoelen voor je begint. Vermoeide benen = prima. Pijn = stop. Drempeltempo = 4:50/km, Z2 = 5:20–5:50/km.",
     "duration_minutes": 75,
-    "distance_meters": 10000,
-    "tss_planned": 55,
+    "distance_meters": 11000,
+    "tss_planned": 52,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "5 min wandelen + 5 min rustig inlopen 7:00/km" },
-      { "step": "Hoofdset", "duration_minutes": 55, "zone": "Z2", "notes": "5:45–6:22/km, HR 157–169 bpm. Enkel voortdurend monitoren. Bij hartslag > 170 bpm: tempo omlaag" },
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "5 min wandelen + 5 min rustig inlopen 6:30/km" },
+      { "step": "Hoofdset", "duration_minutes": 55, "zone": "Z2", "notes": "5:20–5:50/km. Enkel voortdurend monitoren. Bij pijn: direct stoppen en wandelen" },
       { "step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "5 min uitlopen + 5 min wandelen. Enkelmobiliteit na afloop" }
     ]
   }
