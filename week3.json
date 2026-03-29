@@ -1,0 +1,117 @@
+[
+  {
+    "date": "2026-04-13",
+    "workout_type": "Swim",
+    "title": "CSS-intervallen maandag",
+    "description": "Zwemtraining met focus op CSS-tempo intervallen. Opbouw naar meer volume op wedstrijdtempo.",
+    "duration_minutes": 75,
+    "distance_meters": 3200,
+    "tss_planned": 55,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "400m vrij, 200m techniek (catch-up drill + vingertipdrag)"},
+      {"step": "Voorset", "duration_minutes": 8, "zone": "Z2-Z3", "notes": "4x100m opbouwend per 100m (1:45, 1:40, 1:35, 1:30), rust 15s"},
+      {"step": "Hoofdset 1 - CSS", "duration_minutes": 25, "zone": "Z3-Z4", "notes": "5x200m op CSS-tempo (1:28/100m = 2:56 per 200m), rust 20s. Focus op constante slagen en ademhaling."},
+      {"step": "Hoofdset 2 - Snelheid", "duration_minutes": 12, "zone": "Z4", "notes": "8x50m op 1:20/100m tempo, rust 15s. Explosieve afzet en strakke streamline."},
+      {"step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "400m rustig vrij, afwisselend rugcrawl"}
+    ]
+  },
+  {
+    "date": "2026-04-14",
+    "workout_type": "Bike",
+    "title": "Sweetspot-intervallen dinsdag",
+    "description": "Fietsintervaltraining met sweetspot-blokken. Meer reps dan week 2 als opbouw naar piekweek.",
+    "duration_minutes": 75,
+    "distance_meters": null,
+    "tss_planned": 72,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Rustig indraaien, 150-200W. Laatste 3 min 2x30s opdraaien naar 280W."},
+      {"step": "Sweetspot-intervallen", "duration_minutes": 40, "zone": "Z3-Z4", "notes": "4x8 min op 248-263W (85-90% eFTP van 292W), rust 3 min op 160W. Cadans 85-95 rpm. Focus op stabiel vermogen en ontspannen bovenlichaam."},
+      {"step": "Z2 uitrijden", "duration_minutes": 15, "zone": "Z2", "notes": "190-220W, vlot maar ontspannen."},
+      {"step": "Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "Rustig uitdraaien <150W"}
+    ]
+  },
+  {
+    "date": "2026-04-15",
+    "workout_type": "Run",
+    "title": "Drempelsegmenten woensdag",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen — Duurloop met korte tempo-inlassen. Voorzichtige opbouw, direct stoppen bij pijn.",
+    "duration_minutes": 50,
+    "distance_meters": 9500,
+    "tss_planned": 48,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "Rustig inlopen op 6:00-6:15/km. Let op hoe enkel en scheenbenen aanvoelen."},
+      {"step": "Tempo-segmenten", "duration_minutes": 20, "zone": "Z3", "notes": "4x4 min op 5:10-5:15/km (HR check: max 170 bpm), rust 2 min joggen op 6:15/km. Lichte, korte paslengte. Niet forceren."},
+      {"step": "Z2 duurloop", "duration_minutes": 12, "zone": "Z2", "notes": "Vlotte duurloop op 5:40-5:50/km, HR 145-155 bpm."},
+      {"step": "Cooling-down", "duration_minutes": 6, "zone": "Z1", "notes": "Uitlopen op 6:30/km + 5 min stretching (kuiten, scheenbeen, enkel). Noteer pijnscore enkel/scheenbeen (0-10)."}
+    ]
+  },
+  {
+    "date": "2026-04-16",
+    "workout_type": "Swim",
+    "title": "Uithoudingszwemmen donderdag",
+    "description": "Langere herhalingen op iets boven CSS-tempo, gericht op race-uithoudingsvermogen voor de IM.",
+    "duration_minutes": 70,
+    "distance_meters": 3000,
+    "tss_planned": 50,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 10, "zone": "Z1-Z2", "notes": "300m vrij + 200m pull buoy (focus op heuprotatie)"},
+      {"step": "Voorset", "duration_minutes": 8, "zone": "Z2", "notes": "6x50m afwisselend: techniek / opbouwend, rust 10s"},
+      {"step": "Hoofdset - Duurintervallen", "duration_minutes": 30, "zone": "Z3", "notes": "3x400m op 1:32-1:35/100m (net boven IM-doeltempo 1:40, maar onder CSS). Rust 30s. Leer om lang constant te zwemmen met goede techniek."},
+      {"step": "Hoofdset 2 - Tempo contrast", "duration_minutes": 10, "zone": "Z3-Z4", "notes": "4x100m als: 75m op 1:40/100m + 25m sprint. Rust 15s. Train het versnellen vanuit wedstrijdtempo."},
+      {"step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "300m rustig, mix van rugcrawl en schoolslag"}
+    ]
+  },
+  {
+    "date": "2026-04-17",
+    "workout_type": "Bike",
+    "title": "Z2-duurrit met sweetspot vrijdag",
+    "description": "Langere duurrit op flexibele ZZP-dag. Z2-basis met sweetspot-blokken ingebouwd voor extra belasting in piekweek.",
+    "duration_minutes": 105,
+    "distance_meters": null,
+    "tss_planned": 88,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Rustig indraaien op 160-200W."},
+      {"step": "Z2 blok 1", "duration_minutes": 20, "zone": "Z2", "notes": "200-230W, cadans 85-95 rpm. Stabiel en ontspannen."},
+      {"step": "Sweetspot-blok", "duration_minutes": 30, "zone": "Z3-Z4", "notes": "3x8 min op 248-263W (85-90% eFTP), rust 2 min op 170W. Focus op netheid in de trap."},
+      {"step": "Z2 blok 2", "duration_minutes": 30, "zone": "Z2", "notes": "200-230W. Aero-positie oefenen: probeer blokken van 5 min in aerohouding."},
+      {"step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitdraaien <150W, stretching na afloop."}
+    ]
+  },
+  {
+    "date": "2026-04-18",
+    "workout_type": "Brick",
+    "title": "Lange rit + zwemmen zaterdag",
+    "description": "Piekdag van het blok: 3 uur duurrit met sweetspot-segmenten, gevolgd door korte zwemsessie. Totaal ~4 uur training.",
+    "duration_minutes": 240,
+    "distance_meters": null,
+    "tss_planned": 185,
+    "structure": [
+      {"step": "Fietsen - Warming-up", "duration_minutes": 20, "zone": "Z1-Z2", "notes": "Rustig indraaien op 170-210W."},
+      {"step": "Fietsen - Z2 blok 1", "duration_minutes": 40, "zone": "Z2", "notes": "200-230W, cadans 85-95 rpm. Aero-positie oefenen."},
+      {"step": "Fietsen - Sweetspot-segmenten", "duration_minutes": 36, "zone": "Z3-Z4", "notes": "3x10 min op 248-263W (85-90% eFTP), rust 2 min op 170W. Langste sweetspot-set van het blok. Focus op mentale veerkracht."},
+      {"step": "Fietsen - Z2 blok 2", "duration_minutes": 40, "zone": "Z2", "notes": "200-230W. Voeding innemen: 60-80g koolhydraten/uur. Drinken elk kwartier."},
+      {"step": "Fietsen - Z2 blok 3", "duration_minutes": 30, "zone": "Z2", "notes": "200-225W. Laatste half uur, blijf gefocust op techniek ondanks vermoeidheid."},
+      {"step": "Fietsen - Cooling-down", "duration_minutes": 14, "zone": "Z1", "notes": "Uitdraaien <150W. Totaal fiets: 3 uur."},
+      {"step": "Pauze", "duration_minutes": 10, "zone": "n.v.t.", "notes": "Omkleden, drinken, kort eten. Naar het zwembad."},
+      {"step": "Zwemmen - Warming-up", "duration_minutes": 8, "zone": "Z1", "notes": "300m rustig vrij, loshangen in het water."},
+      {"step": "Zwemmen - Hoofdset", "duration_minutes": 20, "zone": "Z3", "notes": "6x150m op 1:35/100m (race-simulatie na vermoeide benen), rust 15s. Focus op slagtechniek behouden onder vermoeidheid."},
+      {"step": "Zwemmen - Cooling-down", "duration_minutes": 7, "zone": "Z1", "notes": "200m rustig. Totaal zwemmen: 35 min, ~1700m."}
+    ]
+  },
+  {
+    "date": "2026-04-19",
+    "workout_type": "Run",
+    "title": "Lange duurloop met tempo zondag",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen — Langste loop van het blok. Tempo-segmenten opbouwend. Direct stoppen bij klachten.",
+    "duration_minutes": 85,
+    "distance_meters": 15000,
+    "tss_planned": 72,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Rustig inlopen op 6:00-6:15/km. Check hoe enkel en scheenbenen aanvoelen na gisteren. Bij pijn >4/10: sessie aanpassen of afbreken."},
+      {"step": "Z2 duurloop", "duration_minutes": 20, "zone": "Z2", "notes": "5:40-5:50/km, HR 145-155 bpm. Stabiel ritme opbouwen."},
+      {"step": "Tempo-segmenten", "duration_minutes": 24, "zone": "Z3", "notes": "3x6 min op 5:05-5:15/km (HR check: max 172 bpm), rust 3 min joggen op 6:15/km. Lichte, efficiente paslengte. Stop direct bij pijn in enkel of scheenbeen."},
+      {"step": "Z2 duurloop", "duration_minutes": 16, "zone": "Z2", "notes": "5:45-5:55/km, HR 145-155 bpm. Mentaal sterk blijven in het laatste deel."},
+      {"step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitlopen op 6:30-7:00/km + 10 min stretching en foam rolling (kuiten, scheenbenen, achillespees). Noteer pijnscore enkel/scheenbeen (0-10). IJzen bij klachten."}
+    ]
+  }
+]

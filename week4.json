@@ -1,0 +1,104 @@
+[
+  {
+    "date": "2026-04-20",
+    "workout_type": "Swim",
+    "title": "Herstelzwemmen – techniekfocus",
+    "description": "Rustige herstelzwemtraining met nadruk op techniek en watergevoel. Dit is een deload-week: het doel is supercompensatie. Zwem ontspannen, geen harde inspanning.",
+    "duration_minutes": 50,
+    "distance_meters": 1600,
+    "tss_planned": 28,
+    "structure": [
+      {"step": "Inzwemmen", "duration_minutes": 8, "zone": "Z1", "notes": "200m vrij, rustig. Focus op ontspannen ademhaling en lange slag."},
+      {"step": "Techniek drills", "duration_minutes": 15, "zone": "Z1", "notes": "4x50m catch-up drill, 4x50m vingersleepoefening, 4x50m eenzijdig zwemmen. Rust 15s per 50m. Alles op ~1:45/100m."},
+      {"step": "Rustige set", "duration_minutes": 18, "zone": "Z1-Z2", "notes": "6x100m op 1:38-1:42/100m. Rust 20s. Focus op constante slag en goede hand-entry."},
+      {"step": "Uitzwemmen", "duration_minutes": 9, "zone": "Z1", "notes": "200m afwisselend: 50m schoolslag, 50m rugslag. Heel rustig uitdrijven."}
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "workout_type": "Bike",
+    "title": "Herstelrit – makkelijk spinnen",
+    "description": "Korte, makkelijke rit. Puur herstel, benen losdraaien. Houd het in Z1-Z2 en geniet van de rust. Supercompensatie!",
+    "duration_minutes": 60,
+    "distance_meters": null,
+    "tss_planned": 35,
+    "structure": [
+      {"step": "Opwarmen", "duration_minutes": 10, "zone": "Z1", "notes": "Rustig indraaien, 140-175W (48-60% eFTP). Hoog cadans 90-95rpm."},
+      {"step": "Makkelijk fietsen", "duration_minutes": 40, "zone": "Z1-Z2", "notes": "160-200W (55-68% eFTP). Cadans 85-95rpm. Blijf ontspannen, geen druk op pedalen zoeken."},
+      {"step": "Cooldown", "duration_minutes": 10, "zone": "Z1", "notes": "Uitdraaien op 130-160W (45-55% eFTP). Lekker rustig."}
+    ]
+  },
+  {
+    "date": "2026-04-22",
+    "workout_type": "Run",
+    "title": "Herstelloop – kort en rustig",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Korte herstelloop op lage intensiteit. Bij ENIGE pijn: STOP en vervang door 30 min wandelen. Dit is deload-week, niets te bewijzen. Focus op supercompensatie.",
+    "duration_minutes": 30,
+    "distance_meters": 4800,
+    "tss_planned": 20,
+    "structure": [
+      {"step": "Wandelen + opwarmen", "duration_minutes": 5, "zone": "Z1", "notes": "3 min wandelen, dan heel rustig beginnen lopen op 6:30/km. HR check: onder 145 bpm."},
+      {"step": "Easy run", "duration_minutes": 20, "zone": "Z1-Z2", "notes": "Rustig doorlopen op 5:50-6:15/km. HR onder 155 bpm. Kort, veerkrachtig contact met de grond."},
+      {"step": "Cooldown + wandelen", "duration_minutes": 5, "zone": "Z1", "notes": "2 min uitlopen op 6:30/km, daarna 3 min wandelen. Stretchen kuiten/scheenbenen."}
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "workout_type": "Swim",
+    "title": "Techniekzwemmen – ontspanning",
+    "description": "Rustige techniektraining. Gebruik deze sessie om aan slagefficiëntie te werken. Geen harde sets, alles op lage intensiteit. Herstelweek = slim trainen.",
+    "duration_minutes": 45,
+    "distance_meters": 1500,
+    "tss_planned": 25,
+    "structure": [
+      {"step": "Inzwemmen", "duration_minutes": 7, "zone": "Z1", "notes": "200m vrij op ~1:50/100m. Heel ontspannen, tel je slagen per baan."},
+      {"step": "Techniek drills", "duration_minutes": 12, "zone": "Z1", "notes": "6x50m wisselend: Tarzan-zwemmen, fist drill, catch-up, normaal met focus op EVF, sculling, kick op zij. Rust 15s."},
+      {"step": "Rustige pull-set", "duration_minutes": 16, "zone": "Z1-Z2", "notes": "4x150m met pull buoy op 1:38-1:42/100m. Rust 25s. Focus op hoge elleboog en ontspannen herstel boven water."},
+      {"step": "Uitzwemmen", "duration_minutes": 10, "zone": "Z1", "notes": "200m keuze (rugslag of schoolslag). Heel rustig."}
+    ]
+  },
+  {
+    "date": "2026-04-24",
+    "workout_type": "Rest",
+    "title": "Rustdag",
+    "description": "Volledige rustdag. Geen training. Gebruik deze dag voor herstel: slaap, voeding, foam rolling, licht stretchen. Je lichaam past zich aan in rust, niet tijdens training.",
+    "duration_minutes": 0,
+    "distance_meters": 0,
+    "tss_planned": 0,
+    "structure": [
+      {"step": "Actief herstel (optioneel)", "duration_minutes": 15, "zone": "Herstel", "notes": "Optioneel: 15 min wandelen, foam rolling of licht yoga. Geen verplichte training."}
+    ]
+  },
+  {
+    "date": "2026-04-25",
+    "workout_type": "Bike",
+    "title": "Makkelijke duurrit met openers",
+    "description": "Ontspannen duurrit met een paar korte openers om het neuromusculaire systeem wakker te houden. De openers zijn GEEN intervallen — alleen korte verhogingen. De rest is puur Z1-Z2.",
+    "duration_minutes": 90,
+    "distance_meters": null,
+    "tss_planned": 55,
+    "structure": [
+      {"step": "Opwarmen", "duration_minutes": 15, "zone": "Z1", "notes": "Rustig opbouwen van 140W naar 175W (48-60% eFTP). Cadans 90rpm."},
+      {"step": "Makkelijk fietsen", "duration_minutes": 25, "zone": "Z2", "notes": "175-210W (60-72% eFTP). Comfortabel tempo, cadans 85-90rpm."},
+      {"step": "Openers", "duration_minutes": 10, "zone": "Z2-Z3", "notes": "3x30s op 250-265W (86-91% eFTP) met 3 min herstel op 160W ertussen. Niet voluit, gewoon benen wakker maken."},
+      {"step": "Makkelijk fietsen", "duration_minutes": 30, "zone": "Z1-Z2", "notes": "160-200W (55-68% eFTP). Geniet van het fietsen, geen druk."},
+      {"step": "Cooldown", "duration_minutes": 10, "zone": "Z1", "notes": "Uitdraaien op 130-155W (45-53% eFTP). Relaxed."}
+    ]
+  },
+  {
+    "date": "2026-04-26",
+    "workout_type": "Run",
+    "title": "Korte herstelloop met strides",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Zeer korte, makkelijke loop met 3 lichte strides voor neuromusculaire prikkeling. Bij pijn: STOP direct. Dit is de afsluiting van de deload-week — volgende week begint een nieuw blok.",
+    "duration_minutes": 35,
+    "distance_meters": 5000,
+    "tss_planned": 22,
+    "structure": [
+      {"step": "Wandelen + opwarmen", "duration_minutes": 5, "zone": "Z1", "notes": "3 min wandelen, 2 min heel rustig joggen op 6:30/km. Check hoe de enkel voelt."},
+      {"step": "Easy run", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Rustig lopen op 5:50-6:10/km. HR onder 155 bpm. Korte, lichte pas."},
+      {"step": "Strides", "duration_minutes": 6, "zone": "Z2-Z3", "notes": "3x20s versnellen naar ~5:00/km (NIET sneller). 90s wandelherstel tussendoor. Geen sprint, alleen benen activeren."},
+      {"step": "Easy run", "duration_minutes": 5, "zone": "Z1", "notes": "Rustig uitlopen op 6:15/km."},
+      {"step": "Cooldown wandelen", "duration_minutes": 4, "zone": "Z1", "notes": "Wandelen, stretchen kuiten en scheenbenen. Foam rollen na thuiskomst."}
+    ]
+  }
+]
