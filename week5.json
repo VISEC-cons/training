@@ -91,40 +91,40 @@
   {
     "date": "2026-05-02",
     "workout_type": "Bike",
-    "title": "Fietsen – Lange Z2 met 3x15min sweetspot",
-    "description": "Zaterdagrit: 2,5 uur lange duurrit met 3x15 min sweetspot in het midden. Opbouw richting race-volume. eFTP = 305W. Voeding: 60-80g kh/uur.",
-    "duration_minutes": 150,
-    "distance_meters": null,
-    "tss_planned": 125,
+    "title": "Fietsen – 150km IM-pace test",
+    "description": "Lange rit eerste week mesocyclus 2: 150km grotendeels op IM-NP (215-225W = IF 0.71-0.74) met 2 SST-blokken voor FTP-stim. Eerste echte voedingstest: 70-80g kh/uur. eFTP = 305W. Aero-positie continu. Bij rookvrij-onthouding HR-drift: NP omlaag, HR leidend (boven 165 = vermogen verlagen).",
+    "duration_minutes": 270,
+    "distance_meters": 150000,
+    "tss_planned": 230,
     "structure": [
-      {"step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Indraaien 175-210W. Soepel cadans"},
-      {"step": "Z2 blok 1", "duration_minutes": 25, "zone": "Z2", "notes": "205-229W. Aero-positie oefenen, begin met voeden"},
-      {"step": "Sweetspot 1", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "15 min op 275W (90% eFTP). Cadans 85-95 rpm"},
-      {"step": "Herstel", "duration_minutes": 4, "zone": "Z1", "notes": "Rustig draaien <175W, drinken"},
-      {"step": "Sweetspot 2", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "15 min op 278W (91% eFTP). Focus op aero-positie"},
-      {"step": "Herstel", "duration_minutes": 4, "zone": "Z1", "notes": "Rustig draaien <175W, gel innemen"},
-      {"step": "Sweetspot 3", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "15 min op 281W (92% eFTP). Laatste blok, mentale focus"},
-      {"step": "Z2 blok 2", "duration_minutes": 45, "zone": "Z2", "notes": "200-225W. Aero-positie, voeding. Laat het systeem wennen aan lange duur"},
-      {"step": "Cooling-down", "duration_minutes": 12, "zone": "Z1", "notes": "Uitdraaien <170W. Stretching na afloop"}
+      {"step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Indraaien 175-210W. Aero-positie warm rijden, cadans 85-90 rpm"},
+      {"step": "IM-pace blok 1", "duration_minutes": 60, "zone": "Z2-Z3", "notes": "215-225W (IM-NP, IF 0.71-0.74). Aero strak, voedingsprotocol starten 70g kh/uur"},
+      {"step": "Sweetspot 1", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "275W (90% eFTP). Cadans 85-95 rpm. Klimsimulatie"},
+      {"step": "Herstel", "duration_minutes": 5, "zone": "Z1-Z2", "notes": "<185W. Drinken, gel innemen"},
+      {"step": "IM-pace blok 2", "duration_minutes": 60, "zone": "Z2-Z3", "notes": "220W. Voeding opvoeren naar 80g kh/uur — kritische test voor de maag"},
+      {"step": "Sweetspot 2", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "280W (92% eFTP). Tweede klimsimulatie"},
+      {"step": "Herstel", "duration_minutes": 5, "zone": "Z1-Z2", "notes": "<185W. Bidon wisselen indien nodig"},
+      {"step": "IM-pace blok 3", "duration_minutes": 50, "zone": "Z2-Z3", "notes": "215W. HR-drift monitoren — bij stijging > 165 vermogen verlagen, voeding+drinken check"},
+      {"step": "Z2 afbouw", "duration_minutes": 35, "zone": "Z2", "notes": "200-215W. Tail-end vermoeidheid managen, techniek vasthouden"},
+      {"step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "<170W. Stretching, recovery shake binnen 30 min"}
     ]
   },
   {
     "date": "2026-05-03",
     "workout_type": "Brick",
-    "title": "Brick – Fiets 75min + Run 25min",
-    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Eerste echte brick van mesocyclus 2: matige fiets gevolgd door IM-tempo run om T2 te oefenen. Koolhydraten op de fiets: 50-60g.",
-    "duration_minutes": 110,
+    "title": "Brick – Fiets 60min + Run 25min (na 150km zaterdag)",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Korte brick na 150km gisteren. Doel niet volume maar T2-routine en run-respons op vermoeide benen. Geen sweetspot. Bij gisteren overreached: omzetten naar enkel 30 min Z2-fiets en run overslaan.",
+    "duration_minutes": 90,
     "distance_meters": null,
-    "tss_planned": 92,
+    "tss_planned": 70,
     "structure": [
-      {"step": "Fiets – Warming-up", "duration_minutes": 10, "zone": "Z1-Z2", "notes": "Indraaien 170-205W"},
-      {"step": "Fiets – Z2 blok", "duration_minutes": 30, "zone": "Z2", "notes": "205-229W. Aero-positie oefenen"},
-      {"step": "Fiets – Sweetspot", "duration_minutes": 20, "zone": "Z3-Z4", "notes": "20 min op 275W (90% eFTP). Stabiel vermogen"},
-      {"step": "Fiets – Z2 afbouw", "duration_minutes": 10, "zone": "Z2", "notes": "200-220W. Benen klaarmaken voor overgang"},
-      {"step": "Fiets – Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "Uitdraaien <170W"},
-      {"step": "Transitie", "duration_minutes": 5, "zone": "n.v.t.", "notes": "Snelle wissel: loopschoenen, pet, drinken. Oefen alsof het wedstrijd is"},
-      {"step": "Run – IM-tempo", "duration_minutes": 25, "zone": "Z2-Z3", "notes": "⚠️ BLESSURECHECK. 25 min op 5:00-5:10/km (IM-doeltempo). HR max 165 bpm. Eerste 5 min benen laten wennen, daarna stabiel tempo. 5 km"},
-      {"step": "Run – Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "⚠️ BLESSURECHECK. Uitlopen 6:30/km + stretching. Noteer pijnscore (0-10)"}
+      {"step": "Fiets – Warming-up", "duration_minutes": 5, "zone": "Z1", "notes": "Voorzichtig indraaien <190W. Stijfheid van zaterdag is normaal"},
+      {"step": "Fiets – Z2", "duration_minutes": 25, "zone": "Z2", "notes": "200-220W. Aero-positie, geen intensiteit"},
+      {"step": "Fiets – Z2 afbouw", "duration_minutes": 15, "zone": "Z2", "notes": "195-215W. Benen voorbereiden op de wissel"},
+      {"step": "Fiets – Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitdraaien <175W"},
+      {"step": "Transitie", "duration_minutes": 5, "zone": "n.v.t.", "notes": "Snelle wissel: loopschoenen, pet, drinken. Oefen T2 als wedstrijd"},
+      {"step": "Run – IM-tempo", "duration_minutes": 25, "zone": "Z2-Z3", "notes": "⚠️ BLESSURECHECK. 5:00-5:10/km (IM-doel). HR ≤ 165 bpm. Eerste 5 min benen laten wennen. ~5 km"},
+      {"step": "Run – Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "⚠️ BLESSURECHECK. Uitlopen 6:30/km + stretching. Pijnscore noteren (0-10)"}
     ]
   }
 ]
