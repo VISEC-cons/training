@@ -5,7 +5,7 @@
     "title": "Zwemmen – IM-tempo intervallen",
     "description": "Zwemtraining met focus op IM-doeltempo. Warming-up met techniekdrills, gevolgd door langere blokken op 1:40/100m. CSS = 1:28/100m. Houd het tempo ontspannen en consistent.",
     "duration_minutes": 70,
-    "distance_meters": 2800,
+    "distance_meters": 2900,
     "tss_planned": 48,
     "structure": [
       {"step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m rustig crawl, afwisselend focus op catch en hoge elleboog per 100m"},
@@ -36,19 +36,21 @@
   {
     "date": "2026-04-08",
     "workout_type": "Run",
-    "title": "Hardlopen – Z2 met eerste tempo-segmenten",
-    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Z2 duurloop met twee korte tempo-invoegingen van 3 min op Z3 (4:55-5:00/km). Threshold = 4:50/km. Let goed op pijnsignalen. Stop direct bij klachten.",
+    "title": "Hardlopen – Z2 met 3x4 min drempeltempo",
+    "description": "Z2 duurloop met drie tempo-segmenten van 4 min op drempeltempo (4:45-4:50/km, Z3-Z4). Threshold = 4:50/km. Korte herstelblokken van 2 min tussen de segmenten.",
     "duration_minutes": 65,
-    "distance_meters": 11000,
-    "tss_planned": 48,
+    "distance_meters": 11500,
+    "tss_planned": 55,
     "structure": [
-      {"step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "⚠️ BLESSURECHECK. Rustig inlopen op 5:50-6:10/km. Check enkel en scheenbenen grondig"},
-      {"step": "Z2 duurloop", "duration_minutes": 15, "zone": "Z2", "notes": "Tempo 5:20-5:40/km. Ontspannen lopen, korte pasfrequentie"},
-      {"step": "Tempo-segment 1", "duration_minutes": 3, "zone": "Z3", "notes": "⚠️ BLESSURECHECK. 3 min op 4:55-5:00/km. Soepele, korte pasfrequentie. Bij pijn direct stoppen"},
-      {"step": "Herstel", "duration_minutes": 3, "zone": "Z2", "notes": "Terug naar 5:30-5:40/km, laat HR zakken"},
-      {"step": "Tempo-segment 2", "duration_minutes": 3, "zone": "Z3", "notes": "⚠️ BLESSURECHECK. 3 min op 4:55-5:00/km. Gelijkmatig tempo, lichte voorvoetlanding"},
-      {"step": "Z2 duurloop", "duration_minutes": 18, "zone": "Z2", "notes": "5:20-5:40/km. Focus op techniek en ontspanning"},
-      {"step": "Cooling-down", "duration_minutes": 11, "zone": "Z1", "notes": "⚠️ BLESSURECHECK. Rustig uitlopen op 6:00-6:30/km + 3 min wandelen. Stretch na afloop, extra aandacht scheenbenen en kuiten"}
+      {"step": "Warming-up", "duration_minutes": 10, "zone": "Z1-Z2", "notes": "Rustig inlopen op 5:50-6:10/km, geleidelijk opbouwen"},
+      {"step": "Z2 duurloop", "duration_minutes": 10, "zone": "Z2", "notes": "5:20-5:40/km. Ontspannen lopen, korte pasfrequentie"},
+      {"step": "Tempo-segment 1", "duration_minutes": 4, "zone": "Z3-Z4", "notes": "4 min op 4:45-4:50/km. Drempeltempo. Soepele, korte pasfrequentie"},
+      {"step": "Herstel", "duration_minutes": 2, "zone": "Z2", "notes": "Terug naar 5:30-5:40/km, laat HR zakken"},
+      {"step": "Tempo-segment 2", "duration_minutes": 4, "zone": "Z3-Z4", "notes": "4 min op 4:45-4:50/km. Gelijkmatig tempo, ontspannen schouders"},
+      {"step": "Herstel", "duration_minutes": 2, "zone": "Z2", "notes": "Terug naar 5:30-5:40/km, laat HR zakken"},
+      {"step": "Tempo-segment 3", "duration_minutes": 4, "zone": "Z3-Z4", "notes": "4 min op 4:45-4:50/km. Laatste segment, mentaal sterk blijven. HR max 178 bpm"},
+      {"step": "Z2 duurloop", "duration_minutes": 20, "zone": "Z2", "notes": "5:20-5:40/km. Focus op techniek en ontspanning"},
+      {"step": "Cooling-down", "duration_minutes": 9, "zone": "Z1", "notes": "Rustig uitlopen op 6:00-6:30/km + 3 min wandelen. Stretch na afloop"}
     ]
   },
   {
@@ -57,7 +59,7 @@
     "title": "Zwemmen – CSS-intervallen en uithoudingsvermogen",
     "description": "Zwemtraining gericht op CSS-tempo (1:28/100m) en uithoudingsvermogen. Mix van snellere 100m-blokken op CSS en langere herhalingen op IM-tempo.",
     "duration_minutes": 75,
-    "distance_meters": 3200,
+    "distance_meters": 3100,
     "tss_planned": 55,
     "structure": [
       {"step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "300m crawl rustig + 200m (50m borst / 50m rug)"},

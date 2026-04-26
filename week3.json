@@ -5,7 +5,7 @@
     "title": "Zwemmen – CSS-intervallen + snelheidswerk",
     "description": "Piekweek zwemtraining met focus op CSS-tempo intervallen en korte snelheidsreeksen. Maximale kwaliteit op elke herhaling.",
     "duration_minutes": 75,
-    "distance_meters": 3200,
+    "distance_meters": 2800,
     "tss_planned": 52,
     "structure": [
       {"step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "400m rustig crawl, afwisselend focus op catch en hoge elleboog. 200m techniek: 4x50m (25m vingertip-drag + 25m catch-up)"},
@@ -63,7 +63,7 @@
     "title": "Zwemmen – Duurintervallen 3x400m",
     "description": "Uithoudingszwemmen met langere herhalingen net onder CSS-tempo. Race-specifiek voor de 3.8km IM-afstand.",
     "duration_minutes": 70,
-    "distance_meters": 3000,
+    "distance_meters": 2700,
     "tss_planned": 45,
     "structure": [
       {"step": "Warming-up", "duration_minutes": 10, "zone": "Z1-Z2", "notes": "300m rustig crawl + 200m pull buoy (focus op heuprotatie en watervat)"},

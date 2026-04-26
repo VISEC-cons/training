@@ -5,7 +5,7 @@
     "title": "Techniekzwemmen maandag",
     "description": "Herstelzwemmen met volledige focus op techniek. Alles op Z1-tempo, geen druk op snelheid. Perfecte slagtechniek oefenen in ontladen toestand. Deload-week: supercompensatie is het doel.",
     "duration_minutes": 45,
-    "distance_meters": 1600,
+    "distance_meters": 1300,
     "tss_planned": 20,
     "structure": [
       {"step": "Inzwemmen", "duration_minutes": 8, "zone": "Z1", "notes": "300m rustig vrij op ~1:45/100m. Focus op ontspannen ademhaling en lange slag."},
@@ -48,7 +48,7 @@
     "title": "Techniek en pull sets donderdag",
     "description": "Herstellende zwemtraining met nadruk op techniek en pull buoy. Geen snelheidswerk, alleen watergevoel en slagefficiëntie opbouwen.",
     "duration_minutes": 45,
-    "distance_meters": 1500,
+    "distance_meters": 1400,
     "tss_planned": 18,
     "structure": [
       {"step": "Inzwemmen", "duration_minutes": 8, "zone": "Z1", "notes": "300m rustig vrij op ~1:45/100m. Focus op lange slag en goede waterligging."},

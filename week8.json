@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2026-05-18",
+    "workout_type": "Swim",
+    "title": "Techniekzwemmen maandag – deload",
+    "description": "Deload mesocyclus 2. Herstelzwemmen met volledige focus op techniek. Alles op Z1. Supercompensatie is het doel.",
+    "duration_minutes": 45,
+    "distance_meters": 1400,
+    "tss_planned": 20,
+    "structure": [
+      {"step": "Inzwemmen", "duration_minutes": 8, "zone": "Z1", "notes": "300m rustig vrij op ~1:45/100m. Focus op ontspannen ademhaling en lange slag"},
+      {"step": "Techniek drills", "duration_minutes": 15, "zone": "Z1", "notes": "4x100m afwisselend: catch-up / vingertipdrag / fist drill / eenarmzwemmen. Rust 15s"},
+      {"step": "Rustige set", "duration_minutes": 14, "zone": "Z1", "notes": "5x100m op 1:42-1:45/100m, rust 20s. Focus op hoge elleboog en EVF. Bilateraal ademen"},
+      {"step": "Uitzwemmen", "duration_minutes": 8, "zone": "Z1", "notes": "200m rustig, mix rugcrawl/schoolslag"}
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "workout_type": "Bike",
+    "title": "Herstelrit – makkelijk spinnen",
+    "description": "Deload. Korte, makkelijke rit. Puur herstel, benen losdraaien. Strikt Z1-Z2.",
+    "duration_minutes": 60,
+    "distance_meters": null,
+    "tss_planned": 30,
+    "structure": [
+      {"step": "Opwarmen", "duration_minutes": 10, "zone": "Z1", "notes": "Rustig indraaien 150-170W. Hoog cadans 90-95 rpm"},
+      {"step": "Makkelijk fietsen", "duration_minutes": 40, "zone": "Z1-Z2", "notes": "160-200W, cadans 85-95 rpm. Geen druk op pedalen zoeken"},
+      {"step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitdraaien 140-160W"}
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "workout_type": "Run",
+    "title": "Korte herstelloop woensdag",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Zeer korte, rustige herstelloop. Alleen Z1-Z2. Stop bij elke pijn. Deload = extra rust voor pezen en scheenbenen. Bij pijn >3/10: vervang door 30 min wandelen.",
+    "duration_minutes": 30,
+    "distance_meters": 5000,
+    "tss_planned": 18,
+    "structure": [
+      {"step": "Wandelen + opwarmen", "duration_minutes": 5, "zone": "Z1", "notes": "3 min wandelen, dan heel rustig beginnen lopen op 6:30/km. Check enkel/scheenbenen"},
+      {"step": "Easy run", "duration_minutes": 20, "zone": "Z1-Z2", "notes": "5:30-6:00/km, HR max 150 bpm. Korte paslengte, lichte landing. Zachte ondergrond als mogelijk"},
+      {"step": "Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "Uitlopen 6:30/km + 3 min wandelen. Stretching kuiten/scheenbenen/achillespees. Noteer pijnscore (0-10). IJzen bij klachten"}
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "workout_type": "Swim",
+    "title": "Techniek en pull sets donderdag",
+    "description": "Herstellende zwemtraining met techniek en pull buoy. Geen snelheidswerk, watergevoel en slagefficiëntie.",
+    "duration_minutes": 45,
+    "distance_meters": 1400,
+    "tss_planned": 18,
+    "structure": [
+      {"step": "Inzwemmen", "duration_minutes": 8, "zone": "Z1", "notes": "300m rustig vrij op ~1:45/100m. Focus op lange slag en waterligging"},
+      {"step": "Techniek drills", "duration_minutes": 10, "zone": "Z1", "notes": "4x75m: 25m catch-up + 25m sculling + 25m normaal. Rust 15s. Voorwaartse reik en EVF"},
+      {"step": "Pull set", "duration_minutes": 18, "zone": "Z1-Z2", "notes": "4x150m met pull buoy op 1:38-1:45/100m. Rust 20s. Heuprotatie, hoge elleboog, ontspannen herstel"},
+      {"step": "Uitzwemmen", "duration_minutes": 9, "zone": "Z1", "notes": "200m rustig, mix rugcrawl/schoolslag. Stretching schouders"}
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "workout_type": "Rest",
+    "title": "Volledige rustdag vrijdag",
+    "description": "Complete rustdag. Geen training. Focus op herstel: uitslapen, gezond eten, hydratatie. Optioneel: licht stretchen of foam rollen.",
+    "duration_minutes": 0,
+    "distance_meters": 0,
+    "tss_planned": 0,
+    "structure": []
+  },
+  {
+    "date": "2026-05-23",
+    "workout_type": "Bike",
+    "title": "Herstelrit met openers zaterdag",
+    "description": "Ontspannen duurrit met korte openers om neuromusculair systeem wakker te houden. Rest puur Z1-Z2. Mesocyclus 3 start maandag.",
+    "duration_minutes": 90,
+    "distance_meters": null,
+    "tss_planned": 50,
+    "structure": [
+      {"step": "Opwarmen", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Rustig indraaien 160-190W, cadans 85-95 rpm"},
+      {"step": "Z2 blok 1", "duration_minutes": 25, "zone": "Z2", "notes": "190-210W, soepel. Aero-positie kort oefenen indien comfortabel"},
+      {"step": "Openers", "duration_minutes": 12, "zone": "Z2-Z4", "notes": "3x30s op 265W met 4 min herstel op 170W ertussen. Niet voluit — alleen systeem wakker maken. Cadans 95-100 rpm"},
+      {"step": "Z2 blok 2", "duration_minutes": 28, "zone": "Z2", "notes": "190-210W, stabiel ritme. Geniet zonder druk"},
+      {"step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitdraaien 140-160W"}
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "workout_type": "Run",
+    "title": "Korte duurloop met strides zondag",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Korte rustige loop met 4 lichte strides voor neuromusculaire prikkeling. Strides alleen als enkel pijnvrij aanvoelt. Bij twijfel: strides weglaten.",
+    "duration_minutes": 40,
+    "distance_meters": 6500,
+    "tss_planned": 25,
+    "structure": [
+      {"step": "Wandelen + opwarmen", "duration_minutes": 5, "zone": "Z1", "notes": "3 min wandelen, 2 min heel rustig joggen op 6:15/km. Check enkel"},
+      {"step": "Easy run", "duration_minutes": 18, "zone": "Z1-Z2", "notes": "5:30-5:55/km, HR max 150 bpm. Ontspannen, korte paslengte"},
+      {"step": "Strides", "duration_minutes": 8, "zone": "Z2-Z4", "notes": "4x20s versnellen naar 4:50/km, 2 min wandelherstel. Licht en soepel, niet forceren. Bij pijn: overslaan"},
+      {"step": "Easy run", "duration_minutes": 5, "zone": "Z1-Z2", "notes": "Rustig doorlopen op 5:50-6:00/km"},
+      {"step": "Cooling-down", "duration_minutes": 4, "zone": "Z1", "notes": "⚠️ BLESSURECHECK. Uitlopen + wandelen. Stretching kuiten/scheenbenen/achillespees. Foam rollen. Noteer pijnscore (0-10)"}
+    ]
+  }
+]

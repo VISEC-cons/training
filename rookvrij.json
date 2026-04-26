@@ -1,0 +1,98 @@
+{
+  "quitDate": "2026-04-26",
+  "quitTime": "12:00",
+  "cigsPerDay": 10,
+  "pricePerPack": 13.50,
+  "cigsPerPack": 20,
+  "smokingHistory": {
+    "yearsSmoked": 8,
+    "averagePacksPerDay": 0.2,
+    "packYears": 1.6,
+    "note": "Lage cumulatieve dosis (<2 pakjaren) — gunstig herstelprofiel, sneller dan populatiegemiddelde"
+  },
+  "goals": [
+    { "id": "g_garmin", "name": "Garmin horloge", "amount": 600 },
+    { "id": "g_macbook", "name": "MacBook", "amount": 2000 },
+    { "id": "g_mds", "name": "Marathon des Sables", "amount": 10000 }
+  ],
+  "milestones": [
+    {
+      "hours": 0.33,
+      "title": "20 minuten",
+      "medical": "Bloeddruk en hartslag normaliseren",
+      "personal": "RHR begint te dalen — Garmin pikt het al op"
+    },
+    {
+      "hours": 8,
+      "title": "8 uur",
+      "medical": "Koolmonoxide in je bloed gehalveerd",
+      "personal": "Bloed-O₂ stijgt — eerste signaal voor VO2max-herstel"
+    },
+    {
+      "hours": 24,
+      "title": "24 uur",
+      "medical": "Koolmonoxide volledig uit je lichaam",
+      "personal": "Volledig zuurstoftransport — Z2-HR-respons al meetbaar beter"
+    },
+    {
+      "hours": 48,
+      "title": "2 dagen",
+      "medical": "Smaak en geur verbeteren merkbaar",
+      "personal": "Energy gels en koffie smaken sterker — voeding op de fiets wordt aangenamer"
+    },
+    {
+      "hours": 72,
+      "title": "3 dagen",
+      "medical": "Bronchiën ontspannen, ademen makkelijker",
+      "personal": "Eerste sessie waarin Z2 lichter voelt — minder ademnood bij gelijke watt"
+    },
+    {
+      "hours": 336,
+      "title": "2 weken",
+      "medical": "Bloedsomloop verbetert duidelijk",
+      "personal": "Beter perifeer herstel — minder zware benen na lange runs, scheenbenen sneller los"
+    },
+    {
+      "hours": 720,
+      "title": "1 maand",
+      "medical": "Longfunctie kan tot 30% verbeteren",
+      "personal": "Net voor IM Tours: VO2-blokken op 111% eFTP voelen lichter, RHR ~5-10 bpm lager"
+    },
+    {
+      "hours": 2160,
+      "title": "3 maanden",
+      "medical": "Longfunctie aanzienlijk hersteld",
+      "personal": "Vlak na IM (≈26/7): volledige longcapaciteit, ideaal uitgangspunt voor seizoen 2"
+    },
+    {
+      "hours": 6480,
+      "title": "9 maanden",
+      "medical": "Trilhaartjes hersteld, minder hoesten",
+      "personal": "Geen ochtendslijm meer, slaapkwaliteit-trend op Garmin omhoog"
+    },
+    {
+      "hours": 8760,
+      "title": "1 jaar",
+      "medical": "Risico op hartziekten gehalveerd",
+      "personal": "Cardiale risicoprofiel als niet-roker — bonus voor lange duurcarrière"
+    },
+    {
+      "hours": 43800,
+      "title": "5 jaar",
+      "medical": "Beroerterisico als een niet-roker",
+      "personal": "Met 1,6 pakjaren waarschijnlijk al eerder bereikt"
+    },
+    {
+      "hours": 87600,
+      "title": "10 jaar",
+      "medical": "Longkankerrisico gehalveerd",
+      "personal": "—"
+    },
+    {
+      "hours": 131400,
+      "title": "15 jaar",
+      "medical": "Hartrisico als een niet-roker",
+      "personal": "—"
+    }
+  ]
+}

@@ -44,6 +44,15 @@ De atleet heeft een kantoorbaan en zit het grootste deel van de dag. Lange duurt
 
 ## 3. ATLETENPROFIEL & DATA
 
+**Persoonlijk profiel**
+- Leeftijd: 30 jaar (geb. 06-05-1995)
+- Lengte: 203 cm | Gewicht: 94 kg | BMI: 22,8
+
+**Rookvrij** *(sinds 26-04-2026, 12:00)*
+- Rookhistorie: 8 jaar × 0,2 pakje/dag = 1,6 pakjaren (lage dosis, gunstig herstel)
+- Verwachte impact eerste maand: HRV-dip 1-2 weken (onthouding), daarna RHR-daling 5-10 bpm, VO2max-stijging zichtbaar binnen 4 weken
+- Volledige tracker-config + mijlpalen: zie `rookvrij.json`
+
 **Fietsen**
 - FTP (volledig): 315W
 - Effectieve FTP eerste mesocyclus: ~290–295W *(start conservatief — bouw gecontroleerd op naar 315W)*

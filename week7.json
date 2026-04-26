@@ -1,0 +1,138 @@
+[
+  {
+    "date": "2026-05-11",
+    "workout_type": "Swim",
+    "title": "Zwemmen – CSS + speed 3000m",
+    "description": "Piekweek mesocyclus 2. Combinatie van CSS en korte snelheid op maximale slagefficiëntie.",
+    "duration_minutes": 75,
+    "distance_meters": 3000,
+    "tss_planned": 55,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "400m rustig crawl + 200m techniek (4x50m vingertipdrag / catch-up)"},
+      {"step": "Voorset", "duration_minutes": 8, "zone": "Z2-Z3", "notes": "4x100m opbouwend (1:45, 1:40, 1:35, 1:30/100m). Rust 15s"},
+      {"step": "Hoofdset – CSS", "duration_minutes": 28, "zone": "Z3-Z4", "notes": "5x300m op 1:29/100m (4:27 per 300m). Rust 25s. Strakke keerpunten, stabiele slag"},
+      {"step": "Speed set", "duration_minutes": 15, "zone": "Z4-Z5", "notes": "10x50m op 1:18-1:22/100m. Rust 15s. Explosief, strakke streamline, max snelheid eerste 15m"},
+      {"step": "Afzwemmen", "duration_minutes": 12, "zone": "Z1", "notes": "400m rustig, mix rugcrawl/crawl"}
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "workout_type": "Bike",
+    "title": "Fietsen – VO2max 6x3min",
+    "description": "Piekweek VO2max-sessie. Maximale herhalingen van het blok. eFTP = 305W. VO2max = 330-340W.",
+    "duration_minutes": 85,
+    "distance_meters": null,
+    "tss_planned": 92,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Losdraaien 175-210W. Laatste 4 min met 3x30s opdraaien tot 310W"},
+      {"step": "VO2 interval 1", "duration_minutes": 3, "zone": "Z5", "notes": "3 min op 330W (108% eFTP). Cadans 90-100 rpm"},
+      {"step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Rustig draaien <170W"},
+      {"step": "VO2 interval 2", "duration_minutes": 3, "zone": "Z5", "notes": "3 min op 332W (109% eFTP)"},
+      {"step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Rustig draaien <170W"},
+      {"step": "VO2 interval 3", "duration_minutes": 3, "zone": "Z5", "notes": "3 min op 335W (110% eFTP)"},
+      {"step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Rustig draaien <170W"},
+      {"step": "VO2 interval 4", "duration_minutes": 3, "zone": "Z5", "notes": "3 min op 337W (110% eFTP). Mentaal scherp"},
+      {"step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Rustig draaien <170W"},
+      {"step": "VO2 interval 5", "duration_minutes": 3, "zone": "Z5", "notes": "3 min op 340W (111% eFTP). Voorlaatste"},
+      {"step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Rustig draaien <170W"},
+      {"step": "VO2 interval 6", "duration_minutes": 3, "zone": "Z5", "notes": "3 min op 340W (111% eFTP). Laatste interval, alles geven"},
+      {"step": "Z2 uitrijden", "duration_minutes": 28, "zone": "Z2", "notes": "200-225W. Aero-positie, voeding"},
+      {"step": "Cooling-down", "duration_minutes": 9, "zone": "Z1", "notes": "Uitdraaien <165W"}
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "workout_type": "Run",
+    "title": "Hardlopen – Threshold 2x12min",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Langere drempelintervallen op 4:55/km. Piekweek mesocyclus 2. Bij pijn >4/10: inkorten of stoppen.",
+    "duration_minutes": 60,
+    "distance_meters": 10000,
+    "tss_planned": 58,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "⚠️ BLESSURECHECK. Inlopen 6:00-6:15/km. Check enkel/scheenbenen"},
+      {"step": "Threshold 1", "duration_minutes": 12, "zone": "Z3-Z4", "notes": "12 min op 4:55/km. HR 170-180 bpm. Stabiel ritme, korte efficiënte pas"},
+      {"step": "Herstel", "duration_minutes": 4, "zone": "Z1-Z2", "notes": "Rustig joggen 6:00-6:15/km. Laat HR zakken"},
+      {"step": "Threshold 2", "duration_minutes": 12, "zone": "Z3-Z4", "notes": "12 min op 4:55/km. Mentaal sterk, tempo vasthouden"},
+      {"step": "Z2 uitlopen", "duration_minutes": 15, "zone": "Z2", "notes": "5:35-5:50/km. HR 145-155 bpm"},
+      {"step": "Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "⚠️ BLESSURECHECK. Uitlopen 6:30/km + stretching. Noteer pijnscore (0-10)"}
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "workout_type": "Swim",
+    "title": "Zwemmen – IM-simulatie 1900m aaneengesloten",
+    "description": "Race-simulatie: 1900m aaneengesloten zwemmen op IM-tempo. Oefent pacing, ademhaling, mentale focus op lange afstand. Hemelvaartsdag (optioneel verplaatsen naar zwembadopeningstijden).",
+    "duration_minutes": 70,
+    "distance_meters": 3200,
+    "tss_planned": 55,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 10, "zone": "Z1-Z2", "notes": "400m rustig crawl + 200m pull buoy"},
+      {"step": "Voorset", "duration_minutes": 8, "zone": "Z2", "notes": "4x100m afwisselend techniek / normaal. Rust 15s"},
+      {"step": "Hoofdset – IM-simulatie", "duration_minutes": 32, "zone": "Z3", "notes": "1900m aaneengesloten op 1:40/100m (IM-doeltempo, 31:40 totaal). Geen stoppen, bilateraal ademen. Mentale focus: pacing en positie"},
+      {"step": "Snelheidsset", "duration_minutes": 12, "zone": "Z4-Z5", "notes": "8x50m op 1:20/100m. Rust 20s. Versnellen vanuit vermoeide toestand"},
+      {"step": "Afzwemmen", "duration_minutes": 8, "zone": "Z1", "notes": "300m rustig, mix rugcrawl/crawl"}
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "workout_type": "Run",
+    "title": "Hardlopen – Lange Z2 met progressie",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Langste loop van het blok op ZZP-vrijdag. Z2-basis met progressie naar IM-tempo in laatste 20 min. 15 km.",
+    "duration_minutes": 90,
+    "distance_meters": 15000,
+    "tss_planned": 72,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "⚠️ BLESSURECHECK. Inlopen 6:00-6:15/km. Check enkel/scheenbenen"},
+      {"step": "Z2 duurloop", "duration_minutes": 40, "zone": "Z2", "notes": "5:40-5:55/km. HR 145-155 bpm. Stabiel ritme"},
+      {"step": "IM-tempo progressie", "duration_minutes": 20, "zone": "Z2-Z3", "notes": "5:00-5:10/km. HR max 165 bpm. Korte, efficiënte pas, ontspannen bovenlichaam"},
+      {"step": "Z2 uitlopen", "duration_minutes": 10, "zone": "Z2", "notes": "5:45-6:00/km. Laat HR zakken"},
+      {"step": "Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "⚠️ BLESSURECHECK. Uitlopen 6:30-7:00/km + 10 min stretching + foam rollen. Noteer pijnscore (0-10). IJzen bij klachten"}
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "workout_type": "Bike",
+    "title": "Fietsen – 3,5 uur duurrit met race-specifieke blokken",
+    "description": "Langste rit van mesocyclus 2: 3,5 uur Z2-basis met 3x15 min sweetspot verdeeld. Race-specifieke voedingstest: 80g kh/uur.",
+    "duration_minutes": 210,
+    "distance_meters": null,
+    "tss_planned": 165,
+    "structure": [
+      {"step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Indraaien 175-210W"},
+      {"step": "Z2 blok 1", "duration_minutes": 45, "zone": "Z2", "notes": "205-229W. Aero-positie, voeding opbouwen"},
+      {"step": "Sweetspot 1", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "15 min op 275W (90% eFTP). Cadans 85-95 rpm"},
+      {"step": "Herstel", "duration_minutes": 5, "zone": "Z1-Z2", "notes": "180-210W. Eten/drinken"},
+      {"step": "Z2 blok 2", "duration_minutes": 30, "zone": "Z2", "notes": "205-225W. Aero-positie, voeding"},
+      {"step": "Sweetspot 2", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "15 min op 278W (91% eFTP). Stabiel vermogen"},
+      {"step": "Herstel", "duration_minutes": 5, "zone": "Z1-Z2", "notes": "180-210W. Drinken"},
+      {"step": "Z2 blok 3", "duration_minutes": 30, "zone": "Z2", "notes": "200-225W. Voeding: 80g kh/uur testen"},
+      {"step": "Sweetspot 3", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "15 min op 275W (90% eFTP). Laatste blok, race-simulatie eind-IM"},
+      {"step": "Z2 afbouw", "duration_minutes": 25, "zone": "Z2", "notes": "195-220W. Laatste Z2-blok, gefocust op techniek"},
+      {"step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitdraaien <170W. Totale tijd: 3,5 uur"}
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "workout_type": "Brick",
+    "title": "Piekdag – Brick 2u fiets + 40min run",
+    "description": "⚠️ BLESSURECHECK: rechter enkel / scheenbenen. Piekbrick mesocyclus 2: 2 uur fiets met sweetspot + 40 min run op IM-tempo. Race-simulatie. Voeding: 70-80g kh/uur op de fiets.",
+    "duration_minutes": 170,
+    "distance_meters": null,
+    "tss_planned": 140,
+    "structure": [
+      {"step": "Fiets – Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Indraaien 175-210W"},
+      {"step": "Fiets – Z2 blok 1", "duration_minutes": 30, "zone": "Z2", "notes": "205-229W. Aero-positie, voeding opbouwen"},
+      {"step": "Fiets – Sweetspot 1", "duration_minutes": 12, "zone": "Z3-Z4", "notes": "12 min op 275W (90% eFTP). Cadans 85-95 rpm"},
+      {"step": "Fiets – Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Rustig draaien <175W"},
+      {"step": "Fiets – Sweetspot 2", "duration_minutes": 12, "zone": "Z3-Z4", "notes": "12 min op 278W (91% eFTP)"},
+      {"step": "Fiets – Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Rustig draaien <175W"},
+      {"step": "Fiets – Sweetspot 3", "duration_minutes": 12, "zone": "Z3-Z4", "notes": "12 min op 280W (92% eFTP). Langste set"},
+      {"step": "Fiets – Z2 blok 2", "duration_minutes": 25, "zone": "Z2", "notes": "200-225W. Benen voorbereiden op run, voeding"},
+      {"step": "Fiets – Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "Uitdraaien <170W"},
+      {"step": "Transitie", "duration_minutes": 5, "zone": "n.v.t.", "notes": "Snelle wissel: loopschoenen, pet, drinken. Oefen T2-routine"},
+      {"step": "Run – IM-tempo", "duration_minutes": 35, "zone": "Z2-Z3", "notes": "⚠️ BLESSURECHECK. 35 min op 5:00-5:10/km (IM-doeltempo). HR max 165 bpm. Eerste 5 min benen laten wennen. ~7 km"},
+      {"step": "Run – Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "⚠️ BLESSURECHECK. Uitlopen 6:30/km + 10 min stretching. Noteer pijnscore (0-10). IJzen bij klachten"},
+      {"step": "Pauze/omkleden", "duration_minutes": 5, "zone": "n.v.t.", "notes": "Drinken, koolhydraten en eiwitten innemen voor herstel"}
+    ]
+  }
+]

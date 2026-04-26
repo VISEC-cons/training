@@ -1,11 +1,21 @@
 [
   {
+    "date": "2026-03-29",
+    "workout_type": "Run",
+    "title": "Rustige duurloop naar vriend",
+    "description": "Ongestructureerde run: heen en terug naar een vriend. Rustig tempo, geen specifieke intervallen.",
+    "duration_minutes": 70,
+    "distance_meters": 12000,
+    "tss_planned": null,
+    "structure": []
+  },
+  {
     "date": "2026-03-30",
     "workout_type": "Swim",
     "title": "Techniek & Z1-Z2 basis",
     "description": "Eerste zwemtraining van het blok. Focus op slagefficiëntie en IM-positie. Tempo ruim onder CSS (1:28/100m) — doel is bewegen en techniek, niet conditie.",
     "duration_minutes": 50,
-    "distance_meters": 2000,
+    "distance_meters": 1400,
     "tss_planned": 35,
     "structure": [
       { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij, rustig aanzwemmen" },
@@ -48,7 +58,7 @@
     "title": "IM tempo blokken",
     "description": "Tweede zwemtraining. Opbouw naar IM-doeltempo van 1:40/100m. Niet forceren — tempo moet comfortabel voelen. Focus op gelijkmatig tempo per blok. CSS = 1:28/100m.",
     "duration_minutes": 55,
-    "distance_meters": 2200,
+    "distance_meters": 1700,
     "tss_planned": 42,
     "structure": [
       { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4× 25m stoot" },
