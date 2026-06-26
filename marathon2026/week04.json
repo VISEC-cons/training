@@ -79,21 +79,6 @@
   },
   {
     "date": "2026-07-25",
-    "workout_type": "Mobility",
-    "title": "Gym C — Mobiliteit & flexibiliteit",
-    "description": "Rustige mobiliteitssessie, TSS 0. In deloadweek mag dit je hoofdsessie van de dag zijn — extra aandacht voor flexibiliteit.",
-    "duration_minutes": 40,
-    "distance_meters": null,
-    "tss_planned": 0,
-    "structure": [
-      { "step": "Heupmobiliteit", "duration_minutes": 12, "zone": "Mobiliteit", "notes": "90/90, couch stretch, deep squat hold — iets langer aanhouden" },
-      { "step": "T-spine + schouder", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "Open-book, thread-the-needle, dislocates" },
-      { "step": "Enkel/kuit", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "Dorsiflexie, kuit- en soleusstretch" },
-      { "step": "Flow + ademhaling", "duration_minutes": 10, "zone": "Mobiliteit", "notes": "Rustige yogaflow, ontspannen ademen" }
-    ]
-  },
-  {
-    "date": "2026-07-26",
     "workout_type": "Run",
     "title": "Deload — korte lange loop",
     "description": "BLESSURECHECK: rechter enkel / scheenbenen. Ingekorte lange loop (~10 km) Z2, fris afsluiten. Volgend blok bouwen we de lange loop weer op richting de marathon. Z2 = 5:33-6:22/km.",
@@ -104,6 +89,21 @@
       { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandelen + inlopen 6:10/km" },
       { "step": "Hoofdset", "duration_minutes": 44, "zone": "Z2", "notes": "5:40-6:00/km, ontspannen. Eindig met gevoel dat er meer in zat" },
       { "step": "Cooling-down", "duration_minutes": 6, "zone": "Z1", "notes": "Uitlopen + wandelen, mobiliteit na" }
+    ]
+  },
+  {
+    "date": "2026-07-26",
+    "workout_type": "Mobility",
+    "title": "Gym C — Mobiliteit & flexibiliteit",
+    "description": "Rustige mobiliteitssessie om het blok af te sluiten, TSS 0. In deloadweek mag dit je hoofdsessie van de dag zijn — extra aandacht voor flexibiliteit.",
+    "duration_minutes": 40,
+    "distance_meters": null,
+    "tss_planned": 0,
+    "structure": [
+      { "step": "Heupmobiliteit", "duration_minutes": 12, "zone": "Mobiliteit", "notes": "90/90, couch stretch, deep squat hold — iets langer aanhouden" },
+      { "step": "T-spine + schouder", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "Open-book, thread-the-needle, dislocates" },
+      { "step": "Enkel/kuit", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "Dorsiflexie, kuit- en soleusstretch" },
+      { "step": "Flow + ademhaling", "duration_minutes": 10, "zone": "Mobiliteit", "notes": "Rustige yogaflow, ontspannen ademen" }
     ]
   }
 ]

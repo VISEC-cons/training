@@ -19,8 +19,10 @@ Geen fietsvolume meer. Weekstructuur met **3× zwemmen / 2× rennen / 3× gym**:
 | Wo | Rennen — kwaliteit (tempo/intervallen) |
 | Do | Zwemmen (CSS/drempel snelheid) |
 | Vr | Gym B — onderlichaam + enkel/scheenbeen-preventie |
-| Za | Zwemmen lang + Gym C — mobiliteit (+ optionele bovenlichaam-pomp) |
-| Zo | Rennen — lange duurloop |
+| Za | Rennen — lange duurloop |
+| Zo | Zwemmen lang (zwembad 9-11) + Gym C — mobiliteit (+ optionele bovenlichaam-pomp) |
+
+> **Zwembadtijden:** za 12-13 (te kort voor de lange zwem) → lange zwem op zo in het 9-11 venster; zo-zwem = actief herstel na de za-loop. Weekdagzwem ma/do-avond.
 
 **Marathon-ramp:** vanaf ~eind augustus (~8 wk vóór Amsterdam) loopfrequentie naar 3×, gym terug naar 2×, marathon-specifiek blok.
 

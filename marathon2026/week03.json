@@ -66,7 +66,7 @@
     "date": "2026-07-17",
     "workout_type": "Strength",
     "title": "Gym B — Onderlichaam + enkel/scheenbeen",
-    "description": "Piekbelasting benen, RPE 8 op squat/deadlift. Let op: zaterdag is non-impact zwem, zondag pas de lange loop — benen hebben hersteltijd. Preventiewerk blijft staan.",
+    "description": "Piekbelasting benen, RPE 8 op squat/deadlift. Let op: zaterdag is de lange loop, zondag de zwem als herstel — vrijdag is hersteldag, dus hier mag het zwaar. Preventiewerk blijft staan.",
     "duration_minutes": 70,
     "distance_meters": null,
     "tss_planned": null,
@@ -82,9 +82,24 @@
   },
   {
     "date": "2026-07-18",
+    "workout_type": "Run",
+    "title": "Lange duurloop — marathonbasis (piek blok)",
+    "description": "BLESSURECHECK: rechter enkel / scheenbenen. Langste loop van het blok, ~15 km Z2. Je deed gisteren Gym B (benen): begin rustig en voel de benen — bij stugheid gewoon Z2 afmaken. Z2 = 5:33-6:22/km. Optioneel laatste 3 km richting marathontempo-gevoel (5:20-5:30/km) als enkel/scheenbeen volledig stil zijn én de benen fris genoeg. Voeding + drinken meenemen.",
+    "duration_minutes": 90,
+    "distance_meters": 15000,
+    "tss_planned": 88,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandelen + inlopen 6:10/km" },
+      { "step": "Hoofdset", "duration_minutes": 70, "zone": "Z2", "notes": "5:40-6:00/km. Voeding vanaf 40 min, elke 30 min" },
+      { "step": "Optioneel slot", "duration_minutes": 0, "zone": "Z3", "notes": "Indien fris: laatste 3 km @ 5:20-5:30/km binnen de 70 min hoofdset" },
+      { "step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitlopen + wandelen, enkelmobiliteit na" }
+    ]
+  },
+  {
+    "date": "2026-07-19",
     "workout_type": "Swim",
-    "title": "Lange aerobe zwem + pull",
-    "description": "Langste zwem van het blok. Z2 volume, slag laag, ontspannen. Non-impact herstel voor de benen vóór de lange loop morgen.",
+    "title": "Lange aerobe zwem + pull (actief herstel)",
+    "description": "Langste zwem van het blok, in het 9-11 venster. Z2 volume, slag laag, ontspannen. Non-impact herstel voor de benen na de lange loop van gisteren — spoelt door en houdt soepel.",
     "duration_minutes": 70,
     "distance_meters": 3200,
     "tss_planned": 56,
@@ -96,10 +111,10 @@
     ]
   },
   {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "workout_type": "Mobility",
     "title": "Gym C — Mobiliteit & flexibiliteit (licht)",
-    "description": "Lichte mobiliteit. Houd de benen los voor de lange loop morgen — niet stretchen tot aan de pijngrens. Optioneel een lichte bovenlichaam-pomp aan het eind (geen benen).",
+    "description": "Lichte mobiliteit op je zwemdag. Houd de benen los na de lange loop van gisteren — niet stretchen tot aan de pijngrens. Optioneel een lichte bovenlichaam-pomp aan het eind (geen benen).",
     "duration_minutes": 50,
     "distance_meters": null,
     "tss_planned": 0,
@@ -109,21 +124,6 @@
       { "step": "Enkel/kuit", "duration_minutes": 8, "zone": "Mobiliteit", "notes": "Dorsiflexie, kuitstretch" },
       { "step": "Accessoire-pomp bovenlichaam (optioneel)", "duration_minutes": 15, "zone": "Kracht", "notes": "Alleen bovenlichaam: 2x incline dumbbell press, 2x lateral raises, 2x biceps curl, 2x triceps. Licht, RPE 6-7" },
       { "step": "Flow + ademhaling", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "Rustige afronding" }
-    ]
-  },
-  {
-    "date": "2026-07-19",
-    "workout_type": "Run",
-    "title": "Lange duurloop — marathonbasis (piek blok)",
-    "description": "BLESSURECHECK: rechter enkel / scheenbenen. Langste loop van het blok, ~15 km Z2. Z2 = 5:33-6:22/km. Optioneel laatste 3 km richting marathontempo-gevoel (5:20-5:30/km) als enkel/scheenbeen volledig stil zijn — anders gewoon Z2 afmaken. Voeding + drinken meenemen.",
-    "duration_minutes": 90,
-    "distance_meters": 15000,
-    "tss_planned": 88,
-    "structure": [
-      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandelen + inlopen 6:10/km" },
-      { "step": "Hoofdset", "duration_minutes": 70, "zone": "Z2", "notes": "5:40-6:00/km. Voeding vanaf 40 min, elke 30 min" },
-      { "step": "Optioneel slot", "duration_minutes": 0, "zone": "Z3", "notes": "Indien fris: laatste 3 km @ 5:20-5:30/km binnen de 70 min hoofdset" },
-      { "step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitlopen + wandelen, enkelmobiliteit na" }
     ]
   }
 ]

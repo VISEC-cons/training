@@ -86,9 +86,23 @@
   },
   {
     "date": "2026-07-11",
+    "workout_type": "Run",
+    "title": "Lange duurloop — marathonbasis",
+    "description": "BLESSURECHECK: rechter enkel / scheenbenen. ~13,5 km Z2, ~+10% t.o.v. week 1. Gelijkmatig, beheerst. Je deed gisteren Gym B (benen): hou 'm rustig Z2; de zwem van morgen is herstel. Z2 = 5:33-6:22/km. Laatste 10 min mag richting Z2-bovenkant (5:35/km) als alles soepel voelt. Bij pijn: inkorten.",
+    "duration_minutes": 82,
+    "distance_meters": 13500,
+    "tss_planned": 78,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandelen + inlopen 6:10/km" },
+      { "step": "Hoofdset", "duration_minutes": 64, "zone": "Z2", "notes": "5:40-6:00/km. Voeding na 45 min. Enkel monitoren" },
+      { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "Uitlopen + wandelen, mobiliteit na" }
+    ]
+  },
+  {
+    "date": "2026-07-12",
     "workout_type": "Swim",
-    "title": "Lange aerobe zwem + pull",
-    "description": "Rustige volumesessie, iets langer dan week 1. Z2, ruim onder CSS. Slagtelling laag houden.",
+    "title": "Lange aerobe zwem + pull (actief herstel)",
+    "description": "Rustige volumesessie in het 9-11 venster, iets langer dan week 1. Z2, ruim onder CSS. Slagtelling laag houden. Tegelijk actief herstel na de lange loop van gisteren.",
     "duration_minutes": 65,
     "distance_meters": 3000,
     "tss_planned": 54,
@@ -100,10 +114,10 @@
     ]
   },
   {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "workout_type": "Mobility",
     "title": "Gym C — Mobiliteit & flexibiliteit (licht)",
-    "description": "Lichte herstelmobiliteit, aanvullend op je zwem. Heup, T-spine, enkel. Optioneel een lichte bovenlichaam-pomp aan het eind (benen sparen voor de lange loop morgen).",
+    "description": "Lichte herstelmobiliteit op je zwemdag. Heup, T-spine, enkel. Optioneel een lichte bovenlichaam-pomp aan het eind — je benen herstellen van de lange loop, dus die laat je met rust.",
     "duration_minutes": 50,
     "distance_meters": null,
     "tss_planned": 0,
@@ -113,20 +127,6 @@
       { "step": "Enkel/kuit", "duration_minutes": 8, "zone": "Mobiliteit", "notes": "Dorsiflexie aan muur, kuitstretch" },
       { "step": "Accessoire-pomp bovenlichaam (optioneel)", "duration_minutes": 15, "zone": "Kracht", "notes": "Alleen bovenlichaam: 2x incline dumbbell press, 2x lateral raises, 2x biceps curl, 2x triceps. Licht, RPE 6-7" },
       { "step": "Flow + ademhaling", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "World's greatest stretch, rustige afronding" }
-    ]
-  },
-  {
-    "date": "2026-07-12",
-    "workout_type": "Run",
-    "title": "Lange duurloop — marathonbasis",
-    "description": "BLESSURECHECK: rechter enkel / scheenbenen. ~13,5 km Z2, ~+10% t.o.v. week 1. Gelijkmatig, beheerst. Z2 = 5:33-6:22/km. Laatste 10 min mag richting Z2-bovenkant (5:35/km) als alles soepel voelt. Bij pijn: inkorten.",
-    "duration_minutes": 82,
-    "distance_meters": 13500,
-    "tss_planned": 78,
-    "structure": [
-      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandelen + inlopen 6:10/km" },
-      { "step": "Hoofdset", "duration_minutes": 64, "zone": "Z2", "notes": "5:40-6:00/km. Voeding na 45 min. Enkel monitoren" },
-      { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "Uitlopen + wandelen, mobiliteit na" }
     ]
   }
 ]
