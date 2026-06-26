@@ -1,0 +1,64 @@
+[
+  {
+    "date": "2026-05-29",
+    "workout_type": "Bike",
+    "title": "Sweetspot + threshold opbouw",
+    "description": "Vrijdagsessie (ZZP-dag, ruimer venster). 2× 15min sweetspot (88-93% FTP, 277-293W) + 2× 5min threshold (98-102% FTP, 309-321W). Cadans 88-92 rpm. Race-pace voeding: 80g kh/uur testen.",
+    "duration_minutes": 90,
+    "distance_meters": null,
+    "tss_planned": 95,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Opbouwend naar 200W, 3× 30s openers richting einde" },
+      { "step": "Sweetspot 1", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "277-293W, cadans 88-92" },
+      { "step": "Herstel", "duration_minutes": 5, "zone": "Z1", "notes": "<175W" },
+      { "step": "Sweetspot 2", "duration_minutes": 15, "zone": "Z3-Z4", "notes": "277-293W, voeding test (80g/u)" },
+      { "step": "Herstel", "duration_minutes": 5, "zone": "Z1", "notes": "Actief" },
+      { "step": "Threshold 1", "duration_minutes": 5, "zone": "Z4", "notes": "309-321W, scherp maar gecontroleerd" },
+      { "step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "" },
+      { "step": "Threshold 2", "duration_minutes": 5, "zone": "Z4", "notes": "Zelfde range, HR check <188" },
+      { "step": "Cooling-down", "duration_minutes": 22, "zone": "Z1", "notes": "Easy spin <175W" }
+    ]
+  },
+  {
+    "date": "2026-05-30",
+    "workout_type": "Brick",
+    "title": "Race-simulatie brick — 4u bike + 30min loop IM-pace",
+    "description": "Laatste lange brick. 4u fietsen op IM-IF (0.70-0.72, 220-227W normvermogen) met 3× 20min op IM-pace blokken. Direct na: 30min lopen, eerste 10min losdraven, daarna 20min op IM-doeltempo (5:00/km). Voeding: 80g kh/u op fiets + race-gels test op loop. ⚠️ BLESSURECHECK: rechter enkel / scheenbenen — pijn >4 = loop afbreken.",
+    "duration_minutes": 270,
+    "distance_meters": null,
+    "tss_planned": 270,
+    "structure": [
+      { "step": "Bike warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Opbouwend naar IM-pace" },
+      { "step": "Bike IM-pace blok 1", "duration_minutes": 60, "zone": "Z2-Z3", "notes": "220-227W normvermogen, race-houding, voeding test" },
+      { "step": "Bike easy", "duration_minutes": 15, "zone": "Z2", "notes": "200-210W" },
+      { "step": "Bike IM-pace blok 2", "duration_minutes": 60, "zone": "Z2-Z3", "notes": "220-227W, blijf scherp op cadans 85-90" },
+      { "step": "Bike easy", "duration_minutes": 15, "zone": "Z2", "notes": "200-210W, drink veel" },
+      { "step": "Bike IM-pace blok 3", "duration_minutes": 45, "zone": "Z2-Z3", "notes": "220-227W, laatste push" },
+      { "step": "Bike easy uit", "duration_minutes": 30, "zone": "Z1-Z2", "notes": "Afbouwen, benen voorbereiden op loop" },
+      { "step": "T2 transitie", "duration_minutes": 5, "zone": "Z1", "notes": "Snel verkleden, race-tempo schoenwissel oefenen" },
+      { "step": "Loop opening", "duration_minutes": 10, "zone": "Z2", "notes": "5:30-6:00/km, benen wennen aan loopslag" },
+      { "step": "Loop IM-pace", "duration_minutes": 20, "zone": "Z3", "notes": "5:00/km, cadans >180, voeding/gel test" }
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "workout_type": "Run",
+    "title": "Lange duurloop met race-pace pickups",
+    "description": "Zondag-duurloop, dag na zware brick. 90min Z2 met 4× 5min op IM-pace (5:00/km) verspreid in tweede helft. Houd het 'comfortabel'. ⚠️ BLESSURECHECK: rechter enkel / scheenbenen — bij stijfheid eerste 15min: korter maken of omzetten naar 60min Z2.",
+    "duration_minutes": 90,
+    "distance_meters": null,
+    "tss_planned": 95,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Eerste 5min Z1 (6:30/km), opbouwend" },
+      { "step": "Z2 blok 1", "duration_minutes": 25, "zone": "Z2", "notes": "5:45-6:00/km, ademhaling laag" },
+      { "step": "IM-pace 1", "duration_minutes": 5, "zone": "Z3", "notes": "5:00/km" },
+      { "step": "Z2 recovery", "duration_minutes": 5, "zone": "Z2", "notes": "5:45/km" },
+      { "step": "IM-pace 2", "duration_minutes": 5, "zone": "Z3", "notes": "5:00/km" },
+      { "step": "Z2 recovery", "duration_minutes": 5, "zone": "Z2", "notes": "" },
+      { "step": "IM-pace 3", "duration_minutes": 5, "zone": "Z3", "notes": "5:00/km, cadans check" },
+      { "step": "Z2 recovery", "duration_minutes": 5, "zone": "Z2", "notes": "" },
+      { "step": "IM-pace 4", "duration_minutes": 5, "zone": "Z3", "notes": "Laatste pickup, geen versnelling" },
+      { "step": "Cooling-down", "duration_minutes": 15, "zone": "Z1", "notes": "6:30+/km, eindigen op stappen + 5min mobiliteit" }
+    ]
+  }
+]

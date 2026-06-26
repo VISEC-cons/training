@@ -1,0 +1,115 @@
+[
+  {
+    "date": "2026-06-01",
+    "workout_type": "Swim",
+    "title": "Race-pace zwemset",
+    "description": "Hoofdset: 6× 400m op IM-doeltempo (1:40/100m = 6:40 per 400m) met 30s rust. Focus op stroke rate en bilaterale ademhaling.",
+    "duration_minutes": 75,
+    "distance_meters": 3400,
+    "tss_planned": 65,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "400 los + 4× 50 drills (catch-up, fist, fingertip drag) + 200 build" },
+      { "step": "Hoofdset", "duration_minutes": 45, "zone": "Z3", "notes": "6× 400m @ 1:40/100m, 30s rust. Stroke count noteren." },
+      { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "300 easy + 100 kick" }
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "workout_type": "Run",
+    "title": "Threshold cruise — kort en scherp",
+    "description": "Avondsessie. 5× 4min Z4 (4:44-4:50/km) met 90s dribbel. Laatste echt scherpe loopsessie voor de race. ⚠️ BLESSURECHECK: rechter enkel / scheenbenen.",
+    "duration_minutes": 55,
+    "distance_meters": null,
+    "tss_planned": 70,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "Opbouwend + 4× 20s strides" },
+      { "step": "Cruise 1", "duration_minutes": 4, "zone": "Z4", "notes": "4:44-4:50/km" },
+      { "step": "Dribbel", "duration_minutes": 1.5, "zone": "Z1", "notes": "" },
+      { "step": "Cruise 2", "duration_minutes": 4, "zone": "Z4", "notes": "" },
+      { "step": "Dribbel", "duration_minutes": 1.5, "zone": "Z1", "notes": "" },
+      { "step": "Cruise 3", "duration_minutes": 4, "zone": "Z4", "notes": "" },
+      { "step": "Dribbel", "duration_minutes": 1.5, "zone": "Z1", "notes": "" },
+      { "step": "Cruise 4", "duration_minutes": 4, "zone": "Z4", "notes": "" },
+      { "step": "Dribbel", "duration_minutes": 1.5, "zone": "Z1", "notes": "" },
+      { "step": "Cruise 5", "duration_minutes": 4, "zone": "Z4", "notes": "Bij HR >195 → laatste omzetten naar Z3" },
+      { "step": "Cooling-down", "duration_minutes": 12, "zone": "Z1", "notes": "Easy + mobiliteit" }
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "workout_type": "Bike",
+    "title": "Sweetspot — race-power consolidatie",
+    "description": "Avondsessie. 3× 12min sweetspot (88-93% FTP, 277-293W) met 5min herstel. Cadans 88-92 rpm. Voedingstest 80g kh/u.",
+    "duration_minutes": 75,
+    "distance_meters": null,
+    "tss_planned": 80,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Opbouwend naar 200W" },
+      { "step": "Sweetspot 1", "duration_minutes": 12, "zone": "Z3-Z4", "notes": "277-293W" },
+      { "step": "Herstel", "duration_minutes": 5, "zone": "Z1", "notes": "<175W" },
+      { "step": "Sweetspot 2", "duration_minutes": 12, "zone": "Z3-Z4", "notes": "277-293W" },
+      { "step": "Herstel", "duration_minutes": 5, "zone": "Z1", "notes": "" },
+      { "step": "Sweetspot 3", "duration_minutes": 12, "zone": "Z3-Z4", "notes": "Bij HR >185 → Z3" },
+      { "step": "Cooling-down", "duration_minutes": 14, "zone": "Z1", "notes": "Easy spin" }
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "workout_type": "Swim",
+    "title": "Open water simulatie — drafting & sighting",
+    "description": "Race-prep set. 1500m continu op IM-tempo (1:40/100m) met sighting elke 8 slagen + draft-simulatie. Daarna 4× 200m race-start (eerste 50 hard, dan settelen).",
+    "duration_minutes": 70,
+    "distance_meters": 3300,
+    "tss_planned": 55,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "400 los + 4× 100 build" },
+      { "step": "IM-tempo continu", "duration_minutes": 25, "zone": "Z3", "notes": "1500m @ 1:40/100m, sighting elke 8 slagen" },
+      { "step": "Race-start sets", "duration_minutes": 20, "zone": "Z3-Z4", "notes": "4× 200m: eerste 50 hard (CSS), daarna IM-tempo. 45s rust." },
+      { "step": "Cooling-down", "duration_minutes": 13, "zone": "Z1", "notes": "400 easy + technique" }
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "workout_type": "Run",
+    "title": "Easy run + strides",
+    "description": "Vrijdag flexibel. Korte Z2-loop met 6× 15s strides aan het eind voor neuromusculaire scherpte. ⚠️ BLESSURECHECK.",
+    "duration_minutes": 40,
+    "distance_meters": null,
+    "tss_planned": 35,
+    "structure": [
+      { "step": "Easy Z2", "duration_minutes": 30, "zone": "Z2", "notes": "5:45-6:00/km, ontspannen" },
+      { "step": "Strides", "duration_minutes": 5, "zone": "Z5A", "notes": "6× 15s @ 4:15/km met 45s wandel" },
+      { "step": "Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "Easy + mobiliteit" }
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "workout_type": "Brick",
+    "title": "Laatste race-rehearsal brick — 3u + 20min",
+    "description": "Allerlaatste lange brick. 3u fietsen op IM-IF (0.70, 220W normvermogen) met race-uitrusting (TT-helm, race-wheels, racepak). Direct 20min loop op IM-pace (5:00/km). Compleet voedingsprotocol testen: 80g kh/u op fiets, 1 gel per 25min op loop. Behandel als generale repetitie.",
+    "duration_minutes": 200,
+    "distance_meters": null,
+    "tss_planned": 195,
+    "structure": [
+      { "step": "Bike warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Opbouwend" },
+      { "step": "Bike IM-pace", "duration_minutes": 150, "zone": "Z2-Z3", "notes": "220W normvermogen, race-uitrusting, volledige voeding/hydratatie" },
+      { "step": "Bike afbouw", "duration_minutes": 15, "zone": "Z2", "notes": "Easy, benen klaar voor T2" },
+      { "step": "T2 transitie", "duration_minutes": 5, "zone": "Z1", "notes": "Race-tempo, race-pak aanhouden" },
+      { "step": "Loop IM-pace", "duration_minutes": 15, "zone": "Z3", "notes": "5:00/km, race-gevoel" }
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "workout_type": "Run",
+    "title": "Lange duurloop — laatste lange",
+    "description": "Laatste lange duurloop. 75min Z2, geen pickups. Focus op herstel-modus richting taperweek. ⚠️ BLESSURECHECK.",
+    "duration_minutes": 75,
+    "distance_meters": null,
+    "tss_planned": 65,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Rustig opstarten" },
+      { "step": "Z2 hoofd", "duration_minutes": 55, "zone": "Z2", "notes": "5:45-6:00/km, conversational" },
+      { "step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Afbouwen + mobiliteit" }
+    ]
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "date": "2026-07-13",
+    "workout_type": "Swim",
+    "title": "Techniek + lange CSS-blokken",
+    "description": "Piekweek van het blok. Langste drempelblokken. CSS = 1:28/100m. Techniek mag niet inzakken onder vermoeidheid — dat is juist de winst.",
+    "duration_minutes": 65,
+    "distance_meters": 2600,
+    "tss_planned": 58,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4x 25m opbouwend" },
+      { "step": "Drills", "duration_minutes": 9, "zone": "Z1", "notes": "6x 50m techniek, 15s rust" },
+      { "step": "Hoofdset", "duration_minutes": 32, "zone": "Z3", "notes": "3x 300m @ 4:36-4:45 (CSS+2-5s/100), 30s rust. Gelijkmatig, slag tellen" },
+      { "step": "Cooling-down", "duration_minutes": 14, "zone": "Z1", "notes": "350m rustig" }
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "workout_type": "Strength",
+    "title": "Gym A — Bovenlichaam compleet (push + pull) + core",
+    "description": "Topbelasting van het blok, push/pull in balans. RPE 8 op de hoofdoefeningen (1 herhaling in de tank). Daarna deload-week, dus mag hier even diep.",
+    "duration_minutes": 65,
+    "distance_meters": null,
+    "tss_planned": null,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 8, "zone": "Z1", "notes": "Roeien + band pull-aparts" },
+      { "step": "Bench press (barbell)", "duration_minutes": 11, "zone": "Kracht", "notes": "4x 5-6 — borst + triceps, topgewicht. RPE 8" },
+      { "step": "Pull-ups (gewogen indien kan)", "duration_minutes": 10, "zone": "Kracht", "notes": "4x 5-6 — rug/lats, RPE 8" },
+      { "step": "Dumbbell shoulder press", "duration_minutes": 9, "zone": "Kracht", "notes": "3x 6-8 — schouders + triceps" },
+      { "step": "Barbell row", "duration_minutes": 8, "zone": "Kracht", "notes": "3x 8 — rug" },
+      { "step": "Dips of triceps pushdown + face pulls", "duration_minutes": 9, "zone": "Kracht", "notes": "3x 8-10 dips/triceps + 3x 15 face pulls/external rotation" },
+      { "step": "Core: Pallof + hanging knee raise", "duration_minutes": 9, "zone": "Core", "notes": "3x 10/zijde + 3x 10 knie-heffen" },
+      { "step": "Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "Stretch" }
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "workout_type": "Run",
+    "title": "Kwaliteit — cruise-intervallen",
+    "description": "BLESSURECHECK: rechter enkel / scheenbenen. Zwaarste loop van het blok: 5x 1 km op Z3/drempel met korte herstel. Z3 = 4:50-5:12/km. Doel: marathon-specifieke kracht-uithouding. Houd alle km's binnen 5s van elkaar. Bij scheenbeen: terug naar 3-4 herhalingen.",
+    "duration_minutes": 62,
+    "distance_meters": 11500,
+    "tss_planned": 80,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 13, "zone": "Z1-Z2", "notes": "Inlopen + 4 strides" },
+      { "step": "5x 1 km @ Z3", "duration_minutes": 32, "zone": "Z3", "notes": "4:55-5:05/km, 90s dribbelherstel tussen. Gelijkmatig" },
+      { "step": "Cooling-down", "duration_minutes": 12, "zone": "Z1", "notes": "Uitlopen + wandelen, enkelmobiliteit" }
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "workout_type": "Swim",
+    "title": "CSS-snelheid — gemengde set",
+    "description": "Scherpe snelheidssessie. Mix van korte sprints onder CSS en CSS-herhalingen. CSS = 1:28/100m.",
+    "duration_minutes": 60,
+    "distance_meters": 2500,
+    "tss_planned": 62,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m opbouwend + 4x 25m drill" },
+      { "step": "Hoofdset 1", "duration_minutes": 14, "zone": "Z4-Z5", "notes": "8x 50m @ 0:40-0:42 (onder CSS), 20s rust" },
+      { "step": "Hoofdset 2", "duration_minutes": 18, "zone": "Z3", "notes": "6x 100m @ 1:28-1:30 (CSS), 20s rust" },
+      { "step": "Cooling-down", "duration_minutes": 16, "zone": "Z1", "notes": "400m rustig" }
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "workout_type": "Strength",
+    "title": "Gym B — Onderlichaam + enkel/scheenbeen",
+    "description": "Piekbelasting benen, RPE 8 op squat/deadlift. Let op: zaterdag is non-impact zwem, zondag pas de lange loop — benen hebben hersteltijd. Preventiewerk blijft staan.",
+    "duration_minutes": 70,
+    "distance_meters": null,
+    "tss_planned": null,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Fiets + heupmobiliteit + glute-activatie" },
+      { "step": "Back squat", "duration_minutes": 14, "zone": "Kracht", "notes": "4x 5, topgewicht blok. RPE 8, schone techniek" },
+      { "step": "Deadlift / RDL", "duration_minutes": 12, "zone": "Kracht", "notes": "3x 6, zwaar maar beheerst" },
+      { "step": "Walking lunges", "duration_minutes": 9, "zone": "Kracht", "notes": "3x 10/been met dumbbells" },
+      { "step": "Excentrische kuitheffing", "duration_minutes": 8, "zone": "Kracht", "notes": "3x 12/been, 3s zakken — zwaarder" },
+      { "step": "Tibialis raises + balans", "duration_minutes": 9, "zone": "Preventie", "notes": "3x 20 tibialis + balans op instabiel vlak" },
+      { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "Stretch kuit/heup/quad" }
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "workout_type": "Swim",
+    "title": "Lange aerobe zwem + pull",
+    "description": "Langste zwem van het blok. Z2 volume, slag laag, ontspannen. Non-impact herstel voor de benen vóór de lange loop morgen.",
+    "duration_minutes": 70,
+    "distance_meters": 3200,
+    "tss_planned": 56,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 200m drill" },
+      { "step": "Hoofdset 1", "duration_minutes": 28, "zone": "Z2", "notes": "1500m continu @ 1:38-1:42" },
+      { "step": "Pull-set", "duration_minutes": 18, "zone": "Z2", "notes": "8x 100m pull @ 1:33, 20s rust" },
+      { "step": "Cooling-down", "duration_minutes": 14, "zone": "Z1", "notes": "400m rustig" }
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "workout_type": "Mobility",
+    "title": "Gym C — Mobiliteit & flexibiliteit (licht)",
+    "description": "Lichte mobiliteit. Houd de benen los voor de lange loop morgen — niet stretchen tot aan de pijngrens. Optioneel een lichte bovenlichaam-pomp aan het eind (geen benen).",
+    "duration_minutes": 50,
+    "distance_meters": null,
+    "tss_planned": 0,
+    "structure": [
+      { "step": "Heupmobiliteit", "duration_minutes": 10, "zone": "Mobiliteit", "notes": "90/90, hip flexor, deep squat" },
+      { "step": "T-spine + schouder", "duration_minutes": 8, "zone": "Mobiliteit", "notes": "Open-book, dislocates" },
+      { "step": "Enkel/kuit", "duration_minutes": 8, "zone": "Mobiliteit", "notes": "Dorsiflexie, kuitstretch" },
+      { "step": "Accessoire-pomp bovenlichaam (optioneel)", "duration_minutes": 15, "zone": "Kracht", "notes": "Alleen bovenlichaam: 2x incline dumbbell press, 2x lateral raises, 2x biceps curl, 2x triceps. Licht, RPE 6-7" },
+      { "step": "Flow + ademhaling", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "Rustige afronding" }
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "workout_type": "Run",
+    "title": "Lange duurloop — marathonbasis (piek blok)",
+    "description": "BLESSURECHECK: rechter enkel / scheenbenen. Langste loop van het blok, ~15 km Z2. Z2 = 5:33-6:22/km. Optioneel laatste 3 km richting marathontempo-gevoel (5:20-5:30/km) als enkel/scheenbeen volledig stil zijn — anders gewoon Z2 afmaken. Voeding + drinken meenemen.",
+    "duration_minutes": 90,
+    "distance_meters": 15000,
+    "tss_planned": 88,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandelen + inlopen 6:10/km" },
+      { "step": "Hoofdset", "duration_minutes": 70, "zone": "Z2", "notes": "5:40-6:00/km. Voeding vanaf 40 min, elke 30 min" },
+      { "step": "Optioneel slot", "duration_minutes": 0, "zone": "Z3", "notes": "Indien fris: laatste 3 km @ 5:20-5:30/km binnen de 70 min hoofdset" },
+      { "step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitlopen + wandelen, enkelmobiliteit na" }
+    ]
+  }
+]

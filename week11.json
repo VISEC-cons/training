@@ -1,0 +1,116 @@
+[
+  {
+    "date": "2026-06-08",
+    "workout_type": "Swim",
+    "title": "Taper zwem — techniek + korte race-pace",
+    "description": "Taperweek start. Volume -40%. Techniek + 4× 100m IM-pace om voeling te houden.",
+    "duration_minutes": 45,
+    "distance_meters": 2000,
+    "tss_planned": 30,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1-Z2", "notes": "400 los + 4× 50 drills" },
+      { "step": "Techniek", "duration_minutes": 15, "zone": "Z2", "notes": "8× 50m focus (catch, hip rotation, glide). 15s rust." },
+      { "step": "IM-pace pickups", "duration_minutes": 12, "zone": "Z3", "notes": "4× 100m @ 1:40/100m, 30s rust" },
+      { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "400 easy" }
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "workout_type": "Run",
+    "title": "Korte scherpe loop intervallen",
+    "description": "Taper-intervallen: kort, scherp, lage totale belasting. 5× 1min Z5A (4:15/km) met 2min dribbel. Houdt neuromusculaire scherpte zonder kosten. ⚠️ BLESSURECHECK.",
+    "duration_minutes": 40,
+    "distance_meters": null,
+    "tss_planned": 40,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "Opbouwend + 4× 20s strides" },
+      { "step": "Interval 1", "duration_minutes": 1, "zone": "Z5A", "notes": "4:15/km, snel maar gecontroleerd" },
+      { "step": "Dribbel", "duration_minutes": 2, "zone": "Z1", "notes": "" },
+      { "step": "Interval 2", "duration_minutes": 1, "zone": "Z5A", "notes": "" },
+      { "step": "Dribbel", "duration_minutes": 2, "zone": "Z1", "notes": "" },
+      { "step": "Interval 3", "duration_minutes": 1, "zone": "Z5A", "notes": "" },
+      { "step": "Dribbel", "duration_minutes": 2, "zone": "Z1", "notes": "" },
+      { "step": "Interval 4", "duration_minutes": 1, "zone": "Z5A", "notes": "" },
+      { "step": "Dribbel", "duration_minutes": 2, "zone": "Z1", "notes": "" },
+      { "step": "Interval 5", "duration_minutes": 1, "zone": "Z5A", "notes": "Laatste, geen versnelling" },
+      { "step": "Cooling-down", "duration_minutes": 15, "zone": "Z1", "notes": "Easy + mobiliteit" }
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "workout_type": "Bike",
+    "title": "Korte fiets met FTP-pickups",
+    "description": "Avondsessie, taper. 3× 3min op FTP (309-321W) met 3min herstel. Houdt power-system geprimed.",
+    "duration_minutes": 50,
+    "distance_meters": null,
+    "tss_planned": 45,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 15, "zone": "Z1-Z2", "notes": "Opbouwend naar 200W + 3× 30s openers" },
+      { "step": "FTP pickup 1", "duration_minutes": 3, "zone": "Z4", "notes": "309-321W, cadans 90-95" },
+      { "step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "" },
+      { "step": "FTP pickup 2", "duration_minutes": 3, "zone": "Z4", "notes": "" },
+      { "step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "" },
+      { "step": "FTP pickup 3", "duration_minutes": 3, "zone": "Z4", "notes": "Laatste, voelt scherp" },
+      { "step": "Cooling-down", "duration_minutes": 20, "zone": "Z1", "notes": "Easy spin <175W" }
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "workout_type": "Swim",
+    "title": "Easy zwem — race-feel",
+    "description": "Korte rustige zwem. Geen intensiteit. Focus op gevoel en ontspanning.",
+    "duration_minutes": 30,
+    "distance_meters": 1500,
+    "tss_planned": 18,
+    "structure": [
+      { "step": "Continu easy", "duration_minutes": 25, "zone": "Z1-Z2", "notes": "1200m los, technisch, ademhaling laag" },
+      { "step": "Race-pace voelers", "duration_minutes": 5, "zone": "Z3", "notes": "3× 50m @ IM-pace, 30s rust" }
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "workout_type": "Run",
+    "title": "Reisdag — easy loop of rust",
+    "description": "Reisdag naar Tours. Korte 20min easy loop met 4× 20s strides als benen het toelaten, anders rust. Hydratatie + slaap prioriteit.",
+    "duration_minutes": 25,
+    "distance_meters": null,
+    "tss_planned": 20,
+    "structure": [
+      { "step": "Easy Z1-Z2", "duration_minutes": 20, "zone": "Z1-Z2", "notes": "Ontspannen, voelmaat" },
+      { "step": "Strides", "duration_minutes": 5, "zone": "Z5A", "notes": "4× 20s, lange wandel-recovery" }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "workout_type": "Brick",
+    "title": "Race-openers — bike + run primer",
+    "description": "Dag voor de race. 20min fiets met 3× 1min @ race-pace (220W) + 10min loop met 3× 30s pickups op IM-pace. Doel: systemen open, niet vermoeien. Materiaalcheck na sessie.",
+    "duration_minutes": 35,
+    "distance_meters": null,
+    "tss_planned": 25,
+    "structure": [
+      { "step": "Bike easy", "duration_minutes": 8, "zone": "Z1-Z2", "notes": "Opwarmen" },
+      { "step": "Bike pickups", "duration_minutes": 9, "zone": "Z2-Z3", "notes": "3× 1min @ 220W met 2min easy" },
+      { "step": "Bike afbouw", "duration_minutes": 3, "zone": "Z1", "notes": "" },
+      { "step": "T2 oefenen", "duration_minutes": 2, "zone": "Z1", "notes": "Race-tempo wissel" },
+      { "step": "Loop pickups", "duration_minutes": 10, "zone": "Z2-Z3", "notes": "Eerste 5min Z2, daarna 3× 30s @ 5:00/km met 60s easy" },
+      { "step": "Cooling-down", "duration_minutes": 3, "zone": "Z1", "notes": "Stretch + mentale check-in" }
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "workout_type": "Brick",
+    "title": "🏆 IRONMAN TOURS — RACE DAY",
+    "description": "Hoofddoel: sub 10 uur. Splits: zwem ~1:12, T1 5min, fiets ~5:05 @ 220W normvermogen / IF 0.70, T2 4min, marathon ~3:35 @ 5:05/km. Voeding fiets: 80g kh/u + 750ml/u. Voeding loop: gel per 25min + cola na 21km. Mentale ankers: kalm zwem, geduld eerste 60km fiets, splits per 10km op de loop.",
+    "duration_minutes": 600,
+    "distance_meters": 226000,
+    "tss_planned": 450,
+    "structure": [
+      { "step": "Zwem 3,8km", "duration_minutes": 72, "zone": "Z3", "notes": "1:40-1:45/100m gemiddeld. Eerste 200m settelen, daarna ritme. Sighting elke 8 slagen." },
+      { "step": "T1", "duration_minutes": 5, "zone": "Z2", "notes": "Snel maar gecontroleerd. Voeding pakken." },
+      { "step": "Fiets 180km", "duration_minutes": 305, "zone": "Z2-Z3", "notes": "220W normvermogen (IF 0.70). Eerste uur bewust ingehouden. 80g kh/u. Plassen elke 60-90min." },
+      { "step": "T2", "duration_minutes": 4, "zone": "Z2", "notes": "Schoenen wissel, pet/zonnebril, gels mee" },
+      { "step": "Marathon 42,2km", "duration_minutes": 214, "zone": "Z3", "notes": "Eerste 5km bewust 5:15/km, daarna 5:00-5:05/km. Gel per 25min. Cola vanaf km 21. Glimlach laatste 5km." }
+    ]
+  }
+]

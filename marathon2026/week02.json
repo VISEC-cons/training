@@ -1,0 +1,132 @@
+[
+  {
+    "date": "2026-07-06",
+    "workout_type": "Swim",
+    "title": "Techniek + CSS-blokken",
+    "description": "Opbouwweek. Techniek vasthouden, dan langere CSS-blokken dan vorige week. CSS = 1:28/100m.",
+    "duration_minutes": 60,
+    "distance_meters": 2400,
+    "tss_planned": 52,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4x 25m opbouwend" },
+      { "step": "Drills", "duration_minutes": 10, "zone": "Z1", "notes": "4x 50m high-elbow + 4x 50m single-arm, 15s rust" },
+      { "step": "Hoofdset", "duration_minutes": 28, "zone": "Z3", "notes": "5x 200m @ 3:04-3:10 (CSS+2-5s/100), 25s rust. Negatieve split per 200" },
+      { "step": "Cooling-down", "duration_minutes": 12, "zone": "Z1", "notes": "300m rustig" }
+    ]
+  },
+  {
+    "date": "2026-07-07",
+    "workout_type": "Strength",
+    "title": "Gym A — Bovenlichaam compleet (push + pull) + core",
+    "description": "Zelfde balans push/pull als week 1, gewicht omhoog. RPE 7-8, 1-2 herhalingen in de tank. Progressie: +2,5-5kg waar techniek schoon blijft.",
+    "duration_minutes": 65,
+    "distance_meters": null,
+    "tss_planned": null,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 8, "zone": "Z1", "notes": "Roeien 5 min + band pull-aparts" },
+      { "step": "Bench press (barbell of dumbbell)", "duration_minutes": 11, "zone": "Kracht", "notes": "4x 6-8 — borst + triceps, zwaarder. RPE 7-8" },
+      { "step": "Pull-ups / lat pulldown", "duration_minutes": 10, "zone": "Kracht", "notes": "4x 6-8 — rug/lats, zwaarder dan vorige week" },
+      { "step": "Dumbbell shoulder press", "duration_minutes": 9, "zone": "Kracht", "notes": "3x 8 — schouders + triceps" },
+      { "step": "Barbell of seated row", "duration_minutes": 8, "zone": "Kracht", "notes": "3x 8-10 — rug" },
+      { "step": "Triceps pushdown + face pulls (superset)", "duration_minutes": 9, "zone": "Kracht", "notes": "3x 10-12 triceps + 3x 15 face pulls/external rotation" },
+      { "step": "Core: Pallof + hollow hold", "duration_minutes": 9, "zone": "Core", "notes": "3x 10/zijde + 3x 30s hollow" },
+      { "step": "Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "Lat-/borststretch" }
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "workout_type": "Run",
+    "title": "Kwaliteit — tempoblokken Z3",
+    "description": "BLESSURECHECK: rechter enkel / scheenbenen. Eerste echte tempoloop van het blok. 3x 8 min op Z3 (drempelnabij), volledige herstel ertussen. Z3 = 4:50-5:12/km, LTHR 192. Houd het tempo gelijkmatig — niet de eerste blok te hard. Bij scheenbeenprikkel: blok inkorten.",
+    "duration_minutes": 60,
+    "distance_meters": 11000,
+    "tss_planned": 72,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1-Z2", "notes": "Inlopen 5:50/km + 3 strides" },
+      { "step": "Tempoblok 1", "duration_minutes": 8, "zone": "Z3", "notes": "4:55-5:05/km, controle" },
+      { "step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Dribbel/wandel" },
+      { "step": "Tempoblok 2", "duration_minutes": 8, "zone": "Z3", "notes": "4:55-5:05/km, gelijk aan blok 1" },
+      { "step": "Herstel", "duration_minutes": 3, "zone": "Z1", "notes": "Dribbel" },
+      { "step": "Tempoblok 3", "duration_minutes": 8, "zone": "Z3", "notes": "Bij HR > Z4 of scheenbeen: terug naar Z2" },
+      { "step": "Cooling-down", "duration_minutes": 10, "zone": "Z1", "notes": "Uitlopen + wandelen" }
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "workout_type": "Swim",
+    "title": "CSS-snelheid — kortere herhalingen",
+    "description": "Snelheidssessie rond/onder CSS (1:28/100m). Kortere, scherpere herhalingen dan maandag.",
+    "duration_minutes": 60,
+    "distance_meters": 2400,
+    "tss_planned": 60,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m opbouwend + 4x 25m drill" },
+      { "step": "Hoofdset 1", "duration_minutes": 16, "zone": "Z4", "notes": "10x 50m @ 0:41-0:43 (CSS of iets sneller), 15s rust" },
+      { "step": "Hoofdset 2", "duration_minutes": 16, "zone": "Z3", "notes": "4x 100m @ 1:28-1:30 (op CSS), 25s rust" },
+      { "step": "Cooling-down", "duration_minutes": 16, "zone": "Z1", "notes": "400m rustig variabel" }
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "workout_type": "Strength",
+    "title": "Gym B — Onderlichaam + enkel/scheenbeen",
+    "description": "Beenkracht zwaarder dan week 1, RPE 7-8. Preventiewerk (tibialis + excentrische kuiten) blijft elke sessie staan — niet overslaan, dit is je shin splint-verzekering.",
+    "duration_minutes": 70,
+    "distance_meters": null,
+    "tss_planned": null,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Fiets 5 min + heupmobiliteit + glute-activatie" },
+      { "step": "Back squat", "duration_minutes": 13, "zone": "Kracht", "notes": "4x 6, +gewicht t.o.v. week 1. RPE 7-8" },
+      { "step": "Romanian deadlift", "duration_minutes": 11, "zone": "Kracht", "notes": "3x 8, zwaarder" },
+      { "step": "Bulgarian split squat", "duration_minutes": 10, "zone": "Kracht", "notes": "3x 8/been" },
+      { "step": "Excentrische kuitheffing", "duration_minutes": 8, "zone": "Kracht", "notes": "3x 12/been, 3s zakken, volle ROM" },
+      { "step": "Tibialis raises + balans", "duration_minutes": 9, "zone": "Preventie", "notes": "3x 15 tibialis + 3x 30s single-leg balans (ogen dicht progressie)" },
+      { "step": "Cooling-down", "duration_minutes": 9, "zone": "Z1", "notes": "Kuit-/heup-/quadstretch" }
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "workout_type": "Swim",
+    "title": "Lange aerobe zwem + pull",
+    "description": "Rustige volumesessie, iets langer dan week 1. Z2, ruim onder CSS. Slagtelling laag houden.",
+    "duration_minutes": 65,
+    "distance_meters": 3000,
+    "tss_planned": 54,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 200m drill" },
+      { "step": "Hoofdset 1", "duration_minutes": 24, "zone": "Z2", "notes": "1200m continu @ 1:38-1:42" },
+      { "step": "Pull-set", "duration_minutes": 18, "zone": "Z2", "notes": "8x 100m pull @ 1:34, 20s rust" },
+      { "step": "Cooling-down", "duration_minutes": 13, "zone": "Z1", "notes": "400m rustig uitzwemmen" }
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "workout_type": "Mobility",
+    "title": "Gym C — Mobiliteit & flexibiliteit (licht)",
+    "description": "Lichte herstelmobiliteit, aanvullend op je zwem. Heup, T-spine, enkel. Optioneel een lichte bovenlichaam-pomp aan het eind (benen sparen voor de lange loop morgen).",
+    "duration_minutes": 50,
+    "distance_meters": null,
+    "tss_planned": 0,
+    "structure": [
+      { "step": "Heupmobiliteit", "duration_minutes": 10, "zone": "Mobiliteit", "notes": "90/90, couch stretch, deep squat hold" },
+      { "step": "T-spine + schouder", "duration_minutes": 8, "zone": "Mobiliteit", "notes": "Open-book, band dislocates" },
+      { "step": "Enkel/kuit", "duration_minutes": 8, "zone": "Mobiliteit", "notes": "Dorsiflexie aan muur, kuitstretch" },
+      { "step": "Accessoire-pomp bovenlichaam (optioneel)", "duration_minutes": 15, "zone": "Kracht", "notes": "Alleen bovenlichaam: 2x incline dumbbell press, 2x lateral raises, 2x biceps curl, 2x triceps. Licht, RPE 6-7" },
+      { "step": "Flow + ademhaling", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "World's greatest stretch, rustige afronding" }
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "workout_type": "Run",
+    "title": "Lange duurloop — marathonbasis",
+    "description": "BLESSURECHECK: rechter enkel / scheenbenen. ~13,5 km Z2, ~+10% t.o.v. week 1. Gelijkmatig, beheerst. Z2 = 5:33-6:22/km. Laatste 10 min mag richting Z2-bovenkant (5:35/km) als alles soepel voelt. Bij pijn: inkorten.",
+    "duration_minutes": 82,
+    "distance_meters": 13500,
+    "tss_planned": 78,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandelen + inlopen 6:10/km" },
+      { "step": "Hoofdset", "duration_minutes": 64, "zone": "Z2", "notes": "5:40-6:00/km. Voeding na 45 min. Enkel monitoren" },
+      { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "Uitlopen + wandelen, mobiliteit na" }
+    ]
+  }
+]

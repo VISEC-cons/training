@@ -1,0 +1,109 @@
+[
+  {
+    "date": "2026-07-20",
+    "workout_type": "Swim",
+    "title": "Deload — techniek & gevoel",
+    "description": "Deloadweek: volume en intensiteit omlaag, lichaam absorbeert de winst van weken 1-3. Puur techniek en ontspannen zwemmen, ruim onder CSS.",
+    "duration_minutes": 45,
+    "distance_meters": 1800,
+    "tss_planned": 35,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij rustig" },
+      { "step": "Drills", "duration_minutes": 15, "zone": "Z1", "notes": "8x 50m techniek, ruime rust. Kwaliteit boven snelheid" },
+      { "step": "Hoofdset", "duration_minutes": 12, "zone": "Z2", "notes": "6x 100m @ 1:35, 25s rust, ontspannen" },
+      { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "200m los" }
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "workout_type": "Strength",
+    "title": "Gym A — Bovenlichaam compleet (licht, deload)",
+    "description": "Deload-kracht: ~60% van het normale volume, RPE 6, 2 sets. Push én pull behouden, niet vermoeien.",
+    "duration_minutes": 45,
+    "distance_meters": null,
+    "tss_planned": null,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 8, "zone": "Z1", "notes": "Roeien + band pull-aparts" },
+      { "step": "Dumbbell bench", "duration_minutes": 8, "zone": "Kracht", "notes": "2x 8 licht — borst/triceps, RPE 6" },
+      { "step": "Lat pulldown", "duration_minutes": 8, "zone": "Kracht", "notes": "2x 8 licht — rug" },
+      { "step": "Dumbbell shoulder press", "duration_minutes": 7, "zone": "Kracht", "notes": "2x 10 licht — schouders" },
+      { "step": "Seated row + face pulls", "duration_minutes": 7, "zone": "Kracht", "notes": "2x 10 row + 2x 15 face pulls" },
+      { "step": "Core licht", "duration_minutes": 7, "zone": "Core", "notes": "2x 40s plank + 2x 10 Pallof" }
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "workout_type": "Run",
+    "title": "Deload — rustige duurloop + strides",
+    "description": "BLESSURECHECK: rechter enkel / scheenbenen. Geen tempoblokken deze week. Rustige Z2 met een paar soepele strides om de benen scherp te houden zonder belasting. Z2 = 5:33-6:22/km.",
+    "duration_minutes": 45,
+    "distance_meters": 8000,
+    "tss_planned": 48,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Inlopen 6:00/km" },
+      { "step": "Hoofdset", "duration_minutes": 26, "zone": "Z2", "notes": "5:40-6:00/km, ontspannen" },
+      { "step": "Strides", "duration_minutes": 4, "zone": "Z4", "notes": "4x 20s soepel, ruime herstel" },
+      { "step": "Cooling-down", "duration_minutes": 5, "zone": "Z1", "notes": "Uitlopen + wandelen" }
+    ]
+  },
+  {
+    "date": "2026-07-23",
+    "workout_type": "Swim",
+    "title": "Deload — korte CSS-touch",
+    "description": "Korte sessie met een paar CSS-herhalingen om gevoel voor tempo te houden, verder rustig. CSS = 1:28/100m.",
+    "duration_minutes": 45,
+    "distance_meters": 1900,
+    "tss_planned": 40,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m opbouwend" },
+      { "step": "Hoofdset", "duration_minutes": 16, "zone": "Z3", "notes": "6x 100m @ 1:30 (CSS+2s), 25s rust. Kort en knap, niet uitputten" },
+      { "step": "Cooling-down", "duration_minutes": 17, "zone": "Z1", "notes": "400m rustig variabel" }
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "workout_type": "Strength",
+    "title": "Gym B — Onderlichaam (licht, deload)",
+    "description": "Deload-benen: licht gewicht, RPE 6, 2 sets. Preventiewerk (tibialis + kuit) blijft volledig staan — dat is laag-belastend en wil je niet missen.",
+    "duration_minutes": 45,
+    "distance_meters": null,
+    "tss_planned": null,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Fiets + heupmobiliteit" },
+      { "step": "Goblet squat", "duration_minutes": 8, "zone": "Kracht", "notes": "2x 8 licht, RPE 6" },
+      { "step": "Romanian deadlift", "duration_minutes": 8, "zone": "Kracht", "notes": "2x 8 licht" },
+      { "step": "Excentrische kuitheffing", "duration_minutes": 8, "zone": "Kracht", "notes": "3x 12/been, 3s zakken — volledig behouden" },
+      { "step": "Tibialis raises + balans", "duration_minutes": 9, "zone": "Preventie", "notes": "3x 15 tibialis + balanswerk — volledig behouden" },
+      { "step": "Cooling-down", "duration_minutes": 2, "zone": "Z1", "notes": "Korte stretch" }
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "workout_type": "Mobility",
+    "title": "Gym C — Mobiliteit & flexibiliteit",
+    "description": "Rustige mobiliteitssessie, TSS 0. In deloadweek mag dit je hoofdsessie van de dag zijn — extra aandacht voor flexibiliteit.",
+    "duration_minutes": 40,
+    "distance_meters": null,
+    "tss_planned": 0,
+    "structure": [
+      { "step": "Heupmobiliteit", "duration_minutes": 12, "zone": "Mobiliteit", "notes": "90/90, couch stretch, deep squat hold — iets langer aanhouden" },
+      { "step": "T-spine + schouder", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "Open-book, thread-the-needle, dislocates" },
+      { "step": "Enkel/kuit", "duration_minutes": 9, "zone": "Mobiliteit", "notes": "Dorsiflexie, kuit- en soleusstretch" },
+      { "step": "Flow + ademhaling", "duration_minutes": 10, "zone": "Mobiliteit", "notes": "Rustige yogaflow, ontspannen ademen" }
+    ]
+  },
+  {
+    "date": "2026-07-26",
+    "workout_type": "Run",
+    "title": "Deload — korte lange loop",
+    "description": "BLESSURECHECK: rechter enkel / scheenbenen. Ingekorte lange loop (~10 km) Z2, fris afsluiten. Volgend blok bouwen we de lange loop weer op richting de marathon. Z2 = 5:33-6:22/km.",
+    "duration_minutes": 60,
+    "distance_meters": 10000,
+    "tss_planned": 58,
+    "structure": [
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "Wandelen + inlopen 6:10/km" },
+      { "step": "Hoofdset", "duration_minutes": 44, "zone": "Z2", "notes": "5:40-6:00/km, ontspannen. Eindig met gevoel dat er meer in zat" },
+      { "step": "Cooling-down", "duration_minutes": 6, "zone": "Z1", "notes": "Uitlopen + wandelen, mobiliteit na" }
+    ]
+  }
+]

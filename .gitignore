@@ -1,0 +1,8 @@
+# Sessielogs en lokale Claude-config — niet naar publieke repo
+.claude/
+
+# Overgeleverde IM-racegids (leftover, mogelijk auteursrechtelijk)
+imto_guide.txt
+
+# Garmin-credentials (buiten repo, maar voor de zekerheid)
+.garth/
