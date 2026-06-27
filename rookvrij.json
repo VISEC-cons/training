@@ -1,6 +1,6 @@
 {
-  "quitDate": "2026-04-26",
-  "quitTime": "12:00",
+  "quitDate": "2026-06-25",
+  "quitTime": "21:00",
   "cigsPerDay": 10,
   "pricePerPack": 13.50,
   "cigsPerPack": 20,
@@ -38,13 +38,13 @@
       "hours": 48,
       "title": "2 dagen",
       "medical": "Smaak en geur verbeteren merkbaar",
-      "personal": "Energy gels en koffie smaken sterker — voeding op de fiets wordt aangenamer"
+      "personal": "Koffie en eten smaken sterker — voeding en gels bij lange runs aangenamer"
     },
     {
       "hours": 72,
       "title": "3 dagen",
       "medical": "Bronchiën ontspannen, ademen makkelijker",
-      "personal": "Eerste sessie waarin Z2 lichter voelt — minder ademnood bij gelijke watt"
+      "personal": "Eerste sessie waarin Z2 lichter voelt — minder ademnood bij gelijk looptempo"
     },
     {
       "hours": 336,
@@ -56,13 +56,13 @@
       "hours": 720,
       "title": "1 maand",
       "medical": "Longfunctie kan tot 30% verbeteren",
-      "personal": "Net voor IM Tours: VO2-blokken op 111% eFTP voelen lichter, RHR ~5-10 bpm lager"
+      "personal": "Eind juli: tempo-/intervalblokken voelen lichter, RHR ~5-10 bpm lager"
     },
     {
       "hours": 2160,
       "title": "3 maanden",
       "medical": "Longfunctie aanzienlijk hersteld",
-      "personal": "Vlak na IM (≈26/7): volledige longcapaciteit, ideaal uitgangspunt voor seizoen 2"
+      "personal": "Eind september, ~3 wk vóór Marathon Amsterdam: volledige longcapaciteit in de taper"
     },
     {
       "hours": 6480,
