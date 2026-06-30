@@ -33,6 +33,7 @@ Twee modi:
 
 ## Directory structuur
 - `coach_prompt.md` — volledige systeemprompt (atletenprofiel, TSS-formules, zones, blessurebewaking)
+- `zwemtechniek.md` — zwemtechniek-drilltoolbox (Effortless Swimming): 4 focuspunten (recovery, rotatie, lats/power diamond, kick) + wekelijkse focus-rotatie. Zwemsessies in `marathon2026/` verwijzen ernaar; lats/power diamond is de vaste cue elke sessie
 - `marathon2026/week01.json` … `week04.json` — **huidig blok** (post-IM, 3 opbouw + 1 deload, start 27 juni)
 - `week1.json` … `week11.json` — afgeronde IM Tours-cyclus (archief)
 - `rookvrij.json` — rookvrij-tracker (sinds 26-04-2026)
@@ -47,6 +48,8 @@ Twee modi:
 | 4 | 20 – 26 jul | Deload |
 
 Volgende blok (vanaf 27 juli) bouwt loopvolume verder op richting Amsterdam.
+
+**Zwemtechniek-focus per week** (zie `zwemtechniek.md`): wk1 recovery · wk2 rotatie · wk3 lats/power diamond (piek) · wk4 kick + integratie. Power diamond/lats is de vaste cue in élke sessie. De ochtend-briefing mag de focus van de dag/week kort tonen bij een zwemtraining.
 
 ## Automatisering — STATUS
 - **Garmin-sync:** ⚠️ **nog niet actief.** `garmin_sync.py` bestaat, maar er is geen opgeslagen `~/.garth`-sessie en geen Windows scheduled task. Nog in te richten. Zou bij activatie `garmin_daily.json` (slaap/HRV/RHR/Body Battery) pushen — let op: publieke repo, dus health-data-privacy afwegen.

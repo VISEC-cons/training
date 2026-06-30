@@ -3,13 +3,13 @@
     "date": "2026-07-06",
     "workout_type": "Swim",
     "title": "Techniek + CSS-blokken",
-    "description": "Opbouwweek. Techniek vasthouden, dan langere CSS-blokken dan vorige week. CSS = 1:28/100m.",
+    "description": "Opbouwweek. Techniek vasthouden, dan langere CSS-blokken dan vorige week. CSS = 1:28/100m. Techniekfocus wk2: ROTATIE (zie zwemtechniek.md). Vaste cue elke baan: power diamond — schouderbladen samen, trek met de rug.",
     "duration_minutes": 60,
     "distance_meters": 2400,
     "tss_planned": 52,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4x 25m opbouwend" },
-      { "step": "Drills", "duration_minutes": 10, "zone": "Z1", "notes": "4x 50m high-elbow + 4x 50m single-arm, 15s rust" },
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4x 25m opbouwend met power-diamond-cue" },
+      { "step": "Drills", "duration_minutes": 10, "zone": "Z1", "notes": "Rotatie: 4x 50m 6-kick switch + 4x 50m kick-on-side (om en om L/R), 15s rust. Draai vanuit de heup, één lichaam, hoofd stil" },
       { "step": "Hoofdset", "duration_minutes": 28, "zone": "Z3", "notes": "5x 200m @ 3:04-3:10 (CSS+2-5s/100), 25s rust. Negatieve split per 200" },
       { "step": "Cooling-down", "duration_minutes": 12, "zone": "Z1", "notes": "300m rustig" }
     ]
@@ -55,12 +55,12 @@
     "date": "2026-07-09",
     "workout_type": "Swim",
     "title": "CSS-snelheid — kortere herhalingen",
-    "description": "Snelheidssessie rond/onder CSS (1:28/100m). Kortere, scherpere herhalingen dan maandag.",
+    "description": "Snelheidssessie rond/onder CSS (1:28/100m). Kortere, scherpere herhalingen dan maandag. Techniekfocus wk2: ROTATIE — voel de rol ook op snelheid (zie zwemtechniek.md).",
     "duration_minutes": 60,
     "distance_meters": 2400,
     "tss_planned": 60,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m opbouwend + 4x 25m drill" },
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m drill rotatie (6-kick switch) + 4x 25m opbouwend met power-diamond-cue" },
       { "step": "Hoofdset 1", "duration_minutes": 16, "zone": "Z4", "notes": "10x 50m @ 0:41-0:43 (CSS of iets sneller), 15s rust" },
       { "step": "Hoofdset 2", "duration_minutes": 16, "zone": "Z3", "notes": "4x 100m @ 1:28-1:30 (op CSS), 25s rust" },
       { "step": "Cooling-down", "duration_minutes": 16, "zone": "Z1", "notes": "400m rustig variabel" }
@@ -102,14 +102,14 @@
     "date": "2026-07-12",
     "workout_type": "Swim",
     "title": "Lange aerobe zwem + pull (actief herstel)",
-    "description": "Rustige volumesessie in het 9-11 venster, iets langer dan week 1. Z2, ruim onder CSS. Slagtelling laag houden. Tegelijk actief herstel na de lange loop van gisteren.",
+    "description": "Rustige volumesessie in het 9-11 venster, iets langer dan week 1. Z2, ruim onder CSS. Slagtelling laag houden — rotatie verlengt je slag. Techniekfocus wk2: ROTATIE. Tegelijk actief herstel na de lange loop van gisteren.",
     "duration_minutes": 65,
     "distance_meters": 3000,
     "tss_planned": 54,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 200m drill" },
-      { "step": "Hoofdset 1", "duration_minutes": 24, "zone": "Z2", "notes": "1200m continu @ 1:38-1:42" },
-      { "step": "Pull-set", "duration_minutes": 18, "zone": "Z2", "notes": "8x 100m pull @ 1:34, 20s rust" },
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4x 50m drill rotatie (kick-on-side / single-arm)" },
+      { "step": "Hoofdset 1", "duration_minutes": 24, "zone": "Z2", "notes": "1200m continu @ 1:38-1:42. Tel je slagen per baan en probeer ze met betere rotatie te verlagen" },
+      { "step": "Pull-set", "duration_minutes": 18, "zone": "Z2", "notes": "8x 100m pull @ 1:34, 20s rust. Voel power diamond: hand binnen, elleboog naar buiten, trek met de lats" },
       { "step": "Cooling-down", "duration_minutes": 13, "zone": "Z1", "notes": "400m rustig uitzwemmen" }
     ]
   },

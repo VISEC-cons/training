@@ -3,14 +3,14 @@
     "date": "2026-07-20",
     "workout_type": "Swim",
     "title": "Deload — techniek & gevoel",
-    "description": "Deloadweek: volume en intensiteit omlaag, lichaam absorbeert de winst van weken 1-3. Puur techniek en ontspannen zwemmen, ruim onder CSS.",
+    "description": "Deloadweek: volume en intensiteit omlaag, lichaam absorbeert de winst van weken 1-3. Puur techniek en ontspannen zwemmen, ruim onder CSS. Techniekfocus wk4: KICK + alle vier de punten integreren — lage intensiteit is ideaal voor kickwerk (zie zwemtechniek.md).",
     "duration_minutes": 45,
     "distance_meters": 1800,
     "tss_planned": 35,
     "structure": [
       { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij rustig" },
-      { "step": "Drills", "duration_minutes": 15, "zone": "Z1", "notes": "8x 50m techniek, ruime rust. Kwaliteit boven snelheid" },
-      { "step": "Hoofdset", "duration_minutes": 12, "zone": "Z2", "notes": "6x 100m @ 1:35, 25s rust, ontspannen" },
+      { "step": "Drills", "duration_minutes": 15, "zone": "Z1", "notes": "Kick + integratie, ruime rust, kwaliteit boven snelheid: 4x 50m kick-on-side (2-beat-timing, tik vanuit de heup, losse enkels) + 2x 50m streamline kick + 2x 50m heel zwemmen met alle vier de cues (recovery hoog, rotatie, power diamond, kick)" },
+      { "step": "Hoofdset", "duration_minutes": 12, "zone": "Z2", "notes": "6x 100m @ 1:35, 25s rust, ontspannen. Voel de 2-beat-kick de rotatie ondersteunen" },
       { "step": "Cooling-down", "duration_minutes": 8, "zone": "Z1", "notes": "200m los" }
     ]
   },
@@ -50,13 +50,13 @@
     "date": "2026-07-23",
     "workout_type": "Swim",
     "title": "Deload — korte CSS-touch",
-    "description": "Korte sessie met een paar CSS-herhalingen om gevoel voor tempo te houden, verder rustig. CSS = 1:28/100m.",
+    "description": "Korte sessie met een paar CSS-herhalingen om gevoel voor tempo te houden, verder rustig. CSS = 1:28/100m. Techniekfocus wk4: KICK — voel de 2-beat-tik ook op CSS-tempo (zie zwemtechniek.md).",
     "duration_minutes": 45,
     "distance_meters": 1900,
     "tss_planned": 40,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m opbouwend" },
-      { "step": "Hoofdset", "duration_minutes": 16, "zone": "Z3", "notes": "6x 100m @ 1:30 (CSS+2s), 25s rust. Kort en knap, niet uitputten" },
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m kick-on-side (2-beat-timing) + 4x 25m opbouwend met power-diamond-cue" },
+      { "step": "Hoofdset", "duration_minutes": 16, "zone": "Z3", "notes": "6x 100m @ 1:30 (CSS+2s), 25s rust. Kort en knap, niet uitputten. 2-beat-tik getimed met de rol" },
       { "step": "Cooling-down", "duration_minutes": 17, "zone": "Z1", "notes": "400m rustig variabel" }
     ]
   },

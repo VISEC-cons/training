@@ -3,14 +3,14 @@
     "date": "2026-07-13",
     "workout_type": "Swim",
     "title": "Techniek + lange CSS-blokken",
-    "description": "Piekweek van het blok. Langste drempelblokken. CSS = 1:28/100m. Techniek mag niet inzakken onder vermoeidheid — dat is juist de winst.",
+    "description": "Piekweek van het blok. Langste drempelblokken. CSS = 1:28/100m. Techniek mag niet inzakken onder vermoeidheid — dat is juist de winst. Techniekfocus wk3: LATS / POWER DIAMOND (catch & pull) — jouw belangrijkste punt, deze week de hoofdfocus (zie zwemtechniek.md).",
     "duration_minutes": 65,
     "distance_meters": 2600,
     "tss_planned": 58,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4x 25m opbouwend" },
-      { "step": "Drills", "duration_minutes": 9, "zone": "Z1", "notes": "6x 50m techniek, 15s rust" },
-      { "step": "Hoofdset", "duration_minutes": 32, "zone": "Z3", "notes": "3x 300m @ 4:36-4:45 (CSS+2-5s/100), 30s rust. Gelijkmatig, slag tellen" },
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4x 25m opbouwend met power-diamond-cue" },
+      { "step": "Drills", "duration_minutes": 9, "zone": "Z1", "notes": "Catch & pull: 4x 50m YMCA-drill + 2x 50m top-to-bottom scull + 2x 50m single-arm catch-focus, 15s rust. Hand binnen / elleboog naar buiten, hand niet te diep" },
+      { "step": "Hoofdset", "duration_minutes": 32, "zone": "Z3", "notes": "3x 300m @ 4:36-4:45 (CSS+2-5s/100), 30s rust. Gelijkmatig, slag tellen. Trek bewust met de lats, schouderbladen samen — voel of de slag krachtiger wordt bij gelijk tempo" },
       { "step": "Cooling-down", "duration_minutes": 14, "zone": "Z1", "notes": "350m rustig" }
     ]
   },
@@ -51,13 +51,13 @@
     "date": "2026-07-16",
     "workout_type": "Swim",
     "title": "CSS-snelheid — gemengde set",
-    "description": "Scherpe snelheidssessie. Mix van korte sprints onder CSS en CSS-herhalingen. CSS = 1:28/100m.",
+    "description": "Scherpe snelheidssessie. Mix van korte sprints onder CSS en CSS-herhalingen. CSS = 1:28/100m. Techniekfocus wk3: LATS / POWER DIAMOND — pak het water vroeg en trek met de rug, ook in de sprints (zie zwemtechniek.md).",
     "duration_minutes": 60,
     "distance_meters": 2500,
     "tss_planned": 62,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m opbouwend + 4x 25m drill" },
-      { "step": "Hoofdset 1", "duration_minutes": 14, "zone": "Z4-Z5", "notes": "8x 50m @ 0:40-0:42 (onder CSS), 20s rust" },
+      { "step": "Warming-up", "duration_minutes": 12, "zone": "Z1", "notes": "400m vrij + 4x 50m drill catch (YMCA / scull) + 4x 25m opbouwend met power-diamond-cue" },
+      { "step": "Hoofdset 1", "duration_minutes": 14, "zone": "Z4-Z5", "notes": "8x 50m @ 0:40-0:42 (onder CSS), 20s rust. High-elbow catch vasthouden, niet met de schouder forceren" },
       { "step": "Hoofdset 2", "duration_minutes": 18, "zone": "Z3", "notes": "6x 100m @ 1:28-1:30 (CSS), 20s rust" },
       { "step": "Cooling-down", "duration_minutes": 16, "zone": "Z1", "notes": "400m rustig" }
     ]
@@ -99,14 +99,14 @@
     "date": "2026-07-19",
     "workout_type": "Swim",
     "title": "Lange aerobe zwem + pull (actief herstel)",
-    "description": "Langste zwem van het blok, in het 9-11 venster. Z2 volume, slag laag, ontspannen. Non-impact herstel voor de benen na de lange loop van gisteren — spoelt door en houdt soepel.",
+    "description": "Langste zwem van het blok, in het 9-11 venster. Z2 volume, slag laag, ontspannen. Non-impact herstel voor de benen na de lange loop van gisteren — spoelt door en houdt soepel. Techniekfocus wk3: LATS / POWER DIAMOND — de pull-set is je beste moment om de lats te voelen (zie zwemtechniek.md).",
     "duration_minutes": 70,
     "distance_meters": 3200,
     "tss_planned": 56,
     "structure": [
-      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 200m drill" },
-      { "step": "Hoofdset 1", "duration_minutes": 28, "zone": "Z2", "notes": "1500m continu @ 1:38-1:42" },
-      { "step": "Pull-set", "duration_minutes": 18, "zone": "Z2", "notes": "8x 100m pull @ 1:33, 20s rust" },
+      { "step": "Warming-up", "duration_minutes": 10, "zone": "Z1", "notes": "400m vrij + 4x 50m drill catch (YMCA / scull)" },
+      { "step": "Hoofdset 1", "duration_minutes": 28, "zone": "Z2", "notes": "1500m continu @ 1:38-1:42. Elke 4e baan: bewust vroege high-elbow catch" },
+      { "step": "Pull-set", "duration_minutes": 18, "zone": "Z2", "notes": "8x 100m pull @ 1:33, 20s rust. Power diamond: hand binnen, elleboog naar buiten, hand niet te diep, trek met de lats" },
       { "step": "Cooling-down", "duration_minutes": 14, "zone": "Z1", "notes": "400m rustig" }
     ]
   },
